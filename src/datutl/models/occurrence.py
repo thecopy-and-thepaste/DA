@@ -8,7 +8,7 @@ import pendulum
 
 from datetime import datetime
 
-from typing import Optional
+from typing import Optional, Union
 
 from shapely.geometry import Point, mapping
 
@@ -93,8 +93,8 @@ class OccurrenceBuilder(BB):
     class Model(IDiedModel):
         occurrenceID: str
         event: EventBuilder.Model
-        verbatimID: str
-        verbatimSourceID: str
+        verbatimID: Optional[Union[str, int]]
+        verbatimSource: str
 
         class Config:
             arbitrary_types_allowed = True
