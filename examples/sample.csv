@@ -1,0 +1,789 @@
+,Unnamed: 0.1,Unnamed: 0,latitude,longitude,scientific_name,eventDate,kingdom,phylum,class_taxon,order,family,subfamily,genus,species,canonicalName,verbatim_source,verbatim_id,occurrence_id
+0,0,0,18.76949,-90.53009,Magnoliopsida,2014-05-15 ,Plantae,Tracheophyta,Magnoliopsida,,,,,Magnoliopsida,Magnoliopsida,inat,47124.0,681138
+1,1,1,18.84635,-90.639696,Syngonium,2014-07-07 ,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Aroideae,Syngonium,Syngonium,Syngonium,inat,143209.0,1045938
+2,2,2,18.842614,-90.643644,Danaus plexippus,2014-07-07 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danainae,Danaus,Danaus plexippus,Danaus plexippus,inat,48662.0,1046025
+3,3,3,18.844076,-90.644674,Trametes betulina,2014-07-15 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Trametes,Trametes betulina,Trametes betulina,inat,786918.0,1046041
+4,4,4,18.845335,-90.643129,Pseudosphinx tetrio,2014-08-12 ,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Macroglossinae,Pseudosphinx,Pseudosphinx tetrio,Pseudosphinx tetrio,inat,124467.0,1046061
+5,5,5,18.845335,-90.643129,Animalia,2014-08-12 ,Animalia,,,,,,,Animalia,Animalia,inat,1.0,1046063
+6,6,6,18.8194402867,-90.6076841601,Amazona albifrons,2014-10-05 ,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,,Amazona,Amazona albifrons,Amazona albifrons,inat,18995.0,1046891
+7,7,7,18.846188,-90.643902,Diapheromeridae,2014-10-06 ,Animalia,Arthropoda,Insecta,Phasmida,Diapheromeridae,,,Diapheromeridae,Diapheromeridae,inat,47320.0,1048586
+8,8,8,18.847487,-90.645447,Danaus gilippus,2014-03-04 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danainae,Danaus,Danaus gilippus,Danaus gilippus,inat,51743.0,1067690
+9,9,9,18.856747,-90.637636,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1116882
+10,10,10,18.856747,-90.637636,Polyporales,,Fungi,Basidiomycota,Agaricomycetes,Polyporales,,,,Polyporales,Polyporales,inat,47380.0,1116884
+11,11,11,18.843588,-90.654545,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1116907
+12,12,12,18.843426,-90.649824,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1116912
+13,13,13,18.837415,-90.672569,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1116922
+14,14,14,18.843263,-90.650768,Passiflora,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Passifloraceae,Passifloroideae,Passiflora,Passiflora,Passiflora,inat,878751.0,1116931
+15,15,15,18.83774,-90.650768,Ipomoea nil,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvuloideae,Ipomoea,Ipomoea nil,Ipomoea nil,inat,164091.0,1135304
+16,16,16,18.850412,-90.647163,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1135316
+17,17,17,18.850412,-90.647163,,,,,,,,,,,,inat,,1135318
+18,18,18,18.850412,-90.647163,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1135320
+19,19,19,18.845213,-90.661411,Leucoagaricus,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucoagaricus,Leucoagaricus,Leucoagaricus,inat,119985.0,1190878
+20,20,20,18.845213,-90.661411,Leucoagaricus,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucoagaricus,Leucoagaricus,Leucoagaricus,inat,119985.0,1190881
+21,21,21,18.845213,-90.661411,Leucoagaricus,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucoagaricus,Leucoagaricus,Leucoagaricus,inat,119985.0,1190883
+22,22,22,18.845213,-90.661411,Leucoagaricus,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucoagaricus,Leucoagaricus,Leucoagaricus,inat,119985.0,1190885
+23,23,23,18.845213,-90.661411,Agaricaceae,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,,Agaricaceae,Agaricaceae,inat,47394.0,1190888
+24,24,24,18.845213,-90.661411,Agaricaceae,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,,Agaricaceae,Agaricaceae,inat,47394.0,1190901
+25,25,25,18.845213,-90.661411,Leucocoprinus cepistipes,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucocoprinus,Leucocoprinus cepistipes,Leucocoprinus cepistipes,inat,328202.0,1190904
+26,26,26,18.845213,-90.661411,Leucoagaricus,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucoagaricus,Leucoagaricus,Leucoagaricus,inat,119985.0,1190909
+27,27,27,18.845213,-90.661411,Leucoagaricus,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucoagaricus,Leucoagaricus,Leucoagaricus,inat,119985.0,1190911
+28,28,28,18.845213,-90.661411,Agaricaceae,2015-01-07 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,,Agaricaceae,Agaricaceae,inat,47394.0,1190913
+29,29,29,18.83709,-90.653601,Lentinus,,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Lentinus,Lentinus,Lentinus,inat,68311.0,1190926
+30,30,30,18.83709,-90.653601,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1190927
+31,31,31,18.842938,-90.647678,,,,,,,,,,,,inat,,1190931
+32,32,32,18.843913,-90.646477,Catasetum integerrimum,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Vandoideae,Catasetum,Catasetum integerrimum,Catasetum integerrimum,inat,276531.0,1190946
+33,33,33,18.842614,-90.648537,Orchidaceae,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,,,Orchidaceae,Orchidaceae,inat,47217.0,1190951
+34,34,34,18.837415,-90.660896,Panus velutinus,,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Panaceae,,Panus,Panus velutinus,Panus velutinus,inat,966155.0,1192104
+35,35,35,18.839039,-90.656261,Tracheophyta,,Plantae,Tracheophyta,,,,,,Tracheophyta,Tracheophyta,inat,211194.0,1192106
+36,36,36,18.843263,-90.653858,Hexagonia hydnoides,,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Hexagonia,Hexagonia hydnoides,Hexagonia hydnoides,inat,202438.0,1194611
+37,37,37,18.838714,-90.646992,Lentinus,,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Lentinus,Lentinus,Lentinus,inat,68311.0,1194620
+38,38,38,18.83514,-90.606823,Polypodiopsida,2015-02-04 ,Plantae,Tracheophyta,Polypodiopsida,,,,,Polypodiopsida,Polypodiopsida,inat,121943.0,1217331
+39,39,39,18.806543,-90.566483,Encyclia,2015-02-03 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Encyclia,Encyclia,Encyclia,inat,84579.0,1217340
+40,40,40,18.806543,-90.566483,Encyclia,2015-02-03 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Encyclia,Encyclia,Encyclia,inat,84579.0,1217344
+41,41,41,18.812393,-90.569916,Angiospermae,2015-02-05 ,Plantae,Tracheophyta,,,,,,Angiospermae,Angiospermae,inat,47125.0,1217348
+42,42,42,18.814668,-90.578499,Nidema boothii,2015-02-05 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Nidema,Nidema boothii,Nidema boothii,inat,275880.0,1218928
+43,43,43,18.814668,-90.578499,,2015-02-05 ,,,,,,,,,,inat,,1218929
+44,44,44,18.814668,-90.578499,Nidema boothii,2015-02-05 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Nidema,Nidema boothii,Nidema boothii,inat,275880.0,1218931
+45,45,45,18.814668,-90.578499,Nidema boothii,2015-02-05 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Nidema,Nidema boothii,Nidema boothii,inat,275880.0,1218934
+46,46,46,18.849762,-90.641627,Cucurbitaceae,2015-02-04 ,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,,,Cucurbitaceae,Cucurbitaceae,inat,48620.0,1218959
+47,47,47,18.849762,-90.641627,Cucurbita,2015-02-04 ,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,,Cucurbita,Cucurbita,Cucurbita,inat,55425.0,1218960
+48,48,48,18.849762,-90.641627,Cucurbita argyrosperma,2015-02-04 ,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,,Cucurbita,Cucurbita argyrosperma,Cucurbita argyrosperma,inat,273777.0,1218961
+49,49,49,18.845863,-90.64549,Angiospermae,,Plantae,Tracheophyta,,,,,,Angiospermae,Angiospermae,inat,47125.0,1218963
+50,50,50,18.841314,-90.646648,Bromelia karatas,2015-02-06 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Bromelioideae,Bromelia,Bromelia karatas,Bromelia karatas,inat,277363.0,1218997
+51,51,51,18.841314,-90.646648,Bromelia karatas,2015-02-06 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Bromelioideae,Bromelia,Bromelia karatas,Bromelia karatas,inat,277363.0,1218998
+52,52,52,18.841314,-90.646648,Bromelia karatas,2015-02-06 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Bromelioideae,Bromelia,Bromelia karatas,Bromelia karatas,inat,277363.0,1218999
+53,53,53,18.841314,-90.646648,Bromelia karatas,2015-02-06 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Bromelioideae,Bromelia,Bromelia karatas,Bromelia karatas,inat,277363.0,1219000
+54,54,54,18.849112,-90.652313,Anas platyrhynchos domesticus,,Animalia,Chordata,Aves,Anseriformes,Anatidae,,Anas,Anas platyrhynchos domesticus,Anas platyrhynchos domesticus,inat,236935.0,1275905
+55,55,55,18.785214,-90.512474,Alouatta pigra,2015-04-25 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,1430436
+56,56,56,18.8435923449,-90.6685111095,Eupsittula nana,2015-04-26 ,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,,Eupsittula,Eupsittula nana,Eupsittula nana,inat,367556.0,1430487
+57,57,57,18.855569,-90.6321,Zenaida asiatica,2015-04-26 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Zenaida,Zenaida asiatica,Zenaida asiatica,inat,3460.0,1430523
+58,58,58,18.848381,-90.641799,Danaus plexippus,,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danainae,Danaus,Danaus plexippus,Danaus plexippus,inat,48662.0,1464382
+59,59,59,18.847893,-90.6427,Danaus plexippus,,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danainae,Danaus,Danaus plexippus,Danaus plexippus,inat,48662.0,1464409
+60,60,60,18.850412,-90.644159,Arsenura armida,,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,Arsenurinae,Arsenura,Arsenura armida,Arsenura armida,inat,257159.0,1464423
+61,61,61,18.846431,-90.646091,Danaus plexippus,2015-01-06 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danainae,Danaus,Danaus plexippus,Danaus plexippus,inat,48662.0,1464436
+62,62,62,18.850513,-90.637143,Magnoliopsida,2012-01-06 16:25:22 ,Plantae,Tracheophyta,Magnoliopsida,,,,,Magnoliopsida,Magnoliopsida,inat,47124.0,1476194
+63,63,63,18.84635,-90.638055,Cucurbita,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,,Cucurbita,Cucurbita,Cucurbita,inat,55425.0,1510213
+64,64,64,18.841151,-90.644588,Carica papaya,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Caricaceae,,Carica,Carica papaya,Carica papaya,inat,62811.0,1538095
+65,65,65,18.839445,-90.650296,Spondias radlkoferi,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Spondiadoideae,Spondias,Spondias radlkoferi,Spondias radlkoferi,inat,206322.0,1538114
+66,66,66,18.845457,-90.643687,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1538121
+67,67,67,18.846107,-90.660853,Spondias radlkoferi,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Spondiadoideae,Spondias,Spondias radlkoferi,Spondias radlkoferi,inat,206322.0,1538127
+68,68,68,18.858859,-90.653343,Orchidaceae,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,,,Orchidaceae,Orchidaceae,inat,47217.0,1538155
+69,69,69,18.841314,-90.653343,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1538261
+70,70,70,18.846513,-90.659523,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1538265
+71,71,71,18.846513,-90.660553,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1538285
+72,72,72,18.852361,-90.65918,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1538289
+73,73,73,18.831566,-90.65815,Trametes versicolor,,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Trametes,Trametes versicolor,Trametes versicolor,inat,54134.0,1538297
+74,74,74,18.847812,-90.645962,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1538300
+75,75,75,18.851386,-90.644073,Basidiomycota,,Fungi,Basidiomycota,,,,,,Basidiomycota,Basidiomycota,inat,47169.0,1538315
+76,76,76,18.848137,-90.648537,Angiospermae,,Plantae,Tracheophyta,,,,,,Angiospermae,Angiospermae,inat,47125.0,1538321
+77,77,77,18.846188,-90.639868,Lepidoptera,,Animalia,Arthropoda,Insecta,Lepidoptera,,,,Lepidoptera,Lepidoptera,inat,47157.0,1538335
+78,78,78,18.839689,-90.656948,Lepidoptera,,Animalia,Arthropoda,Insecta,Lepidoptera,,,,Lepidoptera,Lepidoptera,inat,47157.0,1538388
+79,79,79,18.84765,-90.647421,Ceiba speciosa,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Bombacoideae,Ceiba,Ceiba speciosa,Ceiba speciosa,inat,154290.0,1705839
+80,80,80,18.847812,-90.656176,Hamelia patens,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,Cinchonoideae,Hamelia,Hamelia patens,Hamelia patens,inat,126305.0,1705849
+81,81,81,18.848949,-90.641756,Hymenoptera,,Animalia,Arthropoda,Insecta,Hymenoptera,,,,Hymenoptera,Hymenoptera,inat,47201.0,1705860
+82,82,82,18.843426,-90.65742,Lepidoptera,,Animalia,Arthropoda,Insecta,Lepidoptera,,,,Lepidoptera,Lepidoptera,inat,47157.0,1705882
+83,83,83,18.850412,-90.647163,Plantae,,Plantae,,,,,,,Plantae,Plantae,inat,47126.0,1705886
+84,84,84,18.850087,-90.647678,Angiospermae,,Plantae,Tracheophyta,,,,,,Angiospermae,Angiospermae,inat,47125.0,1705889
+85,85,85,18.845213,-90.657721,Pontederia crassipes,,Plantae,Tracheophyta,Liliopsida,Commelinales,Pontederiaceae,,Pontederia,Pontederia crassipes,Pontederia crassipes,inat,962637.0,1705902
+86,86,86,18.845863,-90.645275,Syntomeida epilais,,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Arctiinae,Syntomeida,Syntomeida epilais,Syntomeida epilais,inat,120875.0,1889369
+87,87,87,18.845863,-90.644417,Heliconius charithonia,2002-01-13 18:06:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Heliconiinae,Heliconius,Heliconius charithonia,Heliconius charithonia,inat,49766.0,1889374
+88,88,88,18.848462,-90.644245,Euptoieta hegesia meridiania,2012-02-25 16:39:06 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Heliconiinae,Euptoieta,Euptoieta hegesia meridiania,Euptoieta hegesia meridiania,inat,312764.0,1889387
+89,89,89,18.851711,-90.646477,Hesperiidae,2012-02-27 17:11:05 ,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,,,Hesperiidae,Hesperiidae,inat,47653.0,1889426
+90,90,90,18.853271,-90.646271,Ministrymon clytie,2002-01-13 18:06:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Ministrymon,Ministrymon clytie,Ministrymon clytie,inat,148801.0,1889431
+91,91,91,18.858469,-90.646271,Proteides mercurius,2012-02-27 17:22:19 ,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Eudaminae,Proteides,Proteides mercurius,Proteides mercurius,inat,148786.0,1889435
+92,92,92,18.85457,-90.649017,Euchroma giganteum,2012-03-03 17:35:39 ,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,Chrysochroinae,Euchroma,Euchroma giganteum,Euchroma giganteum,inat,311087.0,1889439
+93,93,93,18.861491,-90.615166,Artibeus jamaicensis,2012-03-04 02:07:17 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,Artibeus jamaicensis,Artibeus jamaicensis,inat,41005.0,1889443
+94,94,94,18.855675,-90.627113,Agaricus,2012-03-07 23:18:15 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Agaricus,Agaricus,Agaricus,inat,49548.0,1889447
+95,95,95,18.849372,-90.643524,Anartia jatrophae,2012-03-15 16:46:40 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Nymphalinae,Anartia,Anartia jatrophae,Anartia jatrophae,inat,49761.0,1889450
+96,96,96,18.851191,-90.636932,Triatominae,2012-03-11 21:34:29 ,Animalia,Arthropoda,Insecta,Hemiptera,Reduviidae,Triatominae,,Triatominae,Triatominae,inat,472290.0,1889463
+97,97,97,18.85574,-90.636246,Ganoderma,2012-03-07 23:44:32 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Ganoderma,Ganoderma,Ganoderma,inat,1106981.0,1889470
+98,98,98,18.85587,-90.633911,Palpita flegia,2012-03-15 17:03:08 ,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Spilomelinae,Palpita,Palpita flegia,Palpita flegia,inat,311319.0,1889474
+99,99,99,18.85574,-90.636246,Ganoderma,2012-03-07 23:44:32 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Ganoderma,Ganoderma,Ganoderma,inat,1106981.0,1889477
+100,100,100,18.848852,-90.650116,Zamia,2012-03-24 16:49:48 ,Plantae,Tracheophyta,Cycadopsida,Cycadales,Zamiaceae,,Zamia,Zamia,Zamia,inat,67326.0,1889512
+101,101,101,18.852393,-90.639473,Tetrapyrgos nigripes,2012-03-29 16:07:23 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Marasmiaceae,,Tetrapyrgos,Tetrapyrgos nigripes,Tetrapyrgos nigripes,inat,179063.0,1889519
+102,102,102,18.858469,-90.639404,Bolbitius,2012-03-29 17:13:25 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Bolbitiaceae,,Bolbitius,Bolbitius,Bolbitius,inat,55473.0,1889528
+103,103,103,18.847032,-90.638512,Ollanta mexicana,2012-03-07 23:02:53 ,Animalia,Arthropoda,Insecta,Hemiptera,Cicadidae,Cicadinae,Ollanta,Ollanta mexicana,Ollanta mexicana,inat,740584.0,1889537
+104,104,104,18.845343,-90.665772,Dysschema,2012-03-08 15:20:16 ,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Arctiinae,Dysschema,Dysschema,Dysschema,inat,53664.0,1889543
+105,105,105,18.857299,-90.619904,Pteronotus mesoamericanus,2012-03-04 02:15:30 ,Animalia,Chordata,Mammalia,Chiroptera,Mormoopidae,,Pteronotus,Pteronotus mesoamericanus,Pteronotus mesoamericanus,inat,765484.0,1889559
+106,106,106,18.85704,-90.61496,Plantae,2012-03-04 01:36:25 ,Plantae,,,,,,,Plantae,Plantae,inat,47126.0,1889566
+107,107,107,18.850541,-90.630753,Acanthocereus tetragonus,2012-03-04 01:33:57 ,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Cactoideae,Acanthocereus,Acanthocereus tetragonus,Acanthocereus tetragonus,inat,157908.0,1889568
+108,108,108,18.843393,-90.648605,Hamadryas februa,2012-03-03 17:24:36 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Biblidinae,Hamadryas,Hamadryas februa,Hamadryas februa,inat,148742.0,1889583
+109,109,109,18.857169,-90.651764,Ectatomma tuberculatum,2012-02-27 16:38:22 ,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Ectatomminae,Ectatomma,Ectatomma tuberculatum,Ectatomma tuberculatum,inat,300347.0,1889654
+110,110,110,18.858469,-90.625671,Eumaeini,2012-02-27 17:22:45 ,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,,Eumaeini,Eumaeini,inat,125836.0,1889662
+111,111,111,18.851776,-90.63707,Alocasia,2012-02-24 16:49:21 ,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Aroideae,Alocasia,Alocasia,Alocasia,inat,69234.0,1889669
+112,112,112,18.85587,-90.644897,Plumeria,2012-02-24 16:51:25 ,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Rauvolfioideae,Plumeria,Plumeria,Plumeria,inat,48319.0,1889673
+113,113,113,18.852751,-90.637756,Bauhinia divaricata,2012-02-24 17:08:47 ,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Cercidoideae,Bauhinia,Bauhinia divaricata,Bauhinia divaricata,inat,290009.0,1889674
+114,114,114,18.851971,-90.628418,Encyclia,2012-02-24 18:53:16 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Encyclia,Encyclia,Encyclia,inat,84579.0,1889675
+115,115,115,18.85574,-90.64174,Callisia fragrans,2012-03-03 19:55:20 ,Plantae,Tracheophyta,Liliopsida,Commelinales,Commelinaceae,Commelinoideae,Callisia,Callisia fragrans,Callisia fragrans,inat,159678.0,1889677
+116,116,116,18.847682,-90.6404,Asteraceae,2012-03-05 23:13:00 ,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,,,Asteraceae,Asteraceae,inat,47604.0,1889679
+117,117,117,18.858079,-90.637482,Marantaceae,2012-03-05 23:17:50 ,Plantae,Tracheophyta,Liliopsida,Zingiberales,Marantaceae,,,Marantaceae,Marantaceae,inat,68038.0,1889681
+118,118,118,18.8414949714,-90.5873217737,,,,,,,,,,,,inat,,1893311
+119,119,119,18.851953,-90.644832,Fungi,,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,1939709
+120,120,120,18.845856,-90.648035,Leucoagaricus,2015-09-05 22:52:31 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,,Leucoagaricus,Leucoagaricus,Leucoagaricus,inat,119985.0,1939756
+121,121,121,18.843312,-90.640256,Basidiomycota,2015-09-05 22:57:29 ,Fungi,Basidiomycota,,,,,,Basidiomycota,Basidiomycota,inat,47169.0,1939848
+122,122,122,18.848964,-90.63827,Agaricomycetes,2015-09-06 17:21:07 ,Fungi,Basidiomycota,Agaricomycetes,,,,,Agaricomycetes,Agaricomycetes,inat,50814.0,1939858
+123,123,123,18.855252,-90.62309,Mycosarcoma maydis,,Fungi,Basidiomycota,Ustilaginomycetes,Ustilaginales,Ustilaginaceae,,Mycosarcoma,Mycosarcoma maydis,Mycosarcoma maydis,inat,1409663.0,2344082
+124,124,124,18.850504,-90.639076,Lumbricus terrestris,,Animalia,Annelida,Clitellata,Crassiclitellata,Lumbricidae,,Lumbricus,Lumbricus terrestris,Lumbricus terrestris,inat,81545.0,2358123
+125,125,125,18.856706,-90.695357,Rhamdia,2016-01-01 18:41:14 ,Animalia,Chordata,Actinopterygii,Siluriformes,Heptapteridae,Rhamdiinae,Rhamdia,Rhamdia,Rhamdia,inat,91698.0,2557389
+126,126,126,18.8435882795,-90.6462192535,Auricularia,2016-06-26 13:08:00 ,Fungi,Basidiomycota,Agaricomycetes,Auriculariales,Auriculariaceae,,Auricularia,Auricularia,Auricularia,inat,50817.0,3964267
+127,127,127,18.8434664337,-90.6452322006,Agaricales,2016-07-01 15:03:00 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,,,,Agaricales,Agaricales,inat,47167.0,3964268
+128,128,128,18.8437101252,-90.6442022324,Pleurotus,2016-07-02 00:46:00 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Pleurotaceae,,Pleurotus,Pleurotus,Pleurotus,inat,48496.0,3964269
+129,129,129,18.8433445878,-90.6437301636,Clathrus crispus,2016-07-05 14:55:00 ,Fungi,Basidiomycota,Agaricomycetes,Phallales,Clathraceae,,Clathrus,Clathrus crispus,Clathrus crispus,inat,120175.0,3964270
+130,130,130,18.8422073554,-90.6438589096,Phallus indusiatus,2016-07-15 14:52:00 ,Fungi,Basidiomycota,Agaricomycetes,Phallales,Phallaceae,,Phallus,Phallus indusiatus,Phallus indusiatus,inat,54591.0,3964271
+131,131,131,18.8423292021,-90.642786026,Auricularia,2016-07-16 13:07:00 ,Fungi,Basidiomycota,Agaricomycetes,Auriculariales,Auriculariaceae,,Auricularia,Auricularia,Auricularia,inat,50817.0,3964272
+132,132,132,18.8429384343,-90.6451463699,Fungi,2016-07-16 14:34:00 ,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,3964273
+133,133,133,18.8421667399,-90.6460046768,Agaricomycetes,2016-07-16 14:35:00 ,Fungi,Basidiomycota,Agaricomycetes,,,,,Agaricomycetes,Agaricomycetes,inat,50814.0,3964274
+134,134,134,18.849762,-90.647163,Encyclia alata,2016-08-14 02:18:00 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Encyclia,Encyclia alata,Encyclia alata,inat,273803.0,3964399
+135,135,135,18.849762,-90.647335,Trichocentrum lindenii,2016-08-05 00:44:00 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Vandoideae,Trichocentrum,Trichocentrum lindenii,Trichocentrum lindenii,inat,284259.0,3964400
+136,136,136,18.8451316517,-90.6433868408,Trichocentrum oerstedii,2016-07-24 01:26:00 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Vandoideae,Trichocentrum,Trichocentrum oerstedii,Trichocentrum oerstedii,inat,284262.0,3964401
+137,137,137,18.8474743084,-90.6402111053,Saturniidae,2016-07-18 20:12:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,,,Saturniidae,Saturniidae,inat,47918.0,3974698
+138,138,138,18.8469763709,-90.6439876556,Eumorpha vitis,2016-06-26 13:38:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Macroglossinae,Eumorpha,Eumorpha vitis,Eumorpha vitis,inat,143830.0,3974737
+139,139,139,18.8473930996,-90.6454467773,Eumorpha labruscae,2016-07-04 12:17:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Macroglossinae,Eumorpha,Eumorpha labruscae,Eumorpha labruscae,inat,143828.0,3974783
+140,140,140,18.8471912192,-90.6455755234,Taeniopoda obscura,2016-07-08 13:37:00 ,Animalia,Arthropoda,Insecta,Orthoptera,Romaleidae,Romaleinae,Taeniopoda,Taeniopoda obscura,Taeniopoda obscura,inat,293465.0,3974784
+141,141,141,18.8475161339,-90.6457042694,Eumorpha vitis,2016-07-07 20:00:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Macroglossinae,Eumorpha,Eumorpha vitis,Eumorpha vitis,inat,143830.0,3974785
+142,142,142,18.8469069184,-90.6475496292,Insecta,2016-07-01 21:18:00 ,Animalia,Arthropoda,Insecta,,,,,Insecta,Insecta,inat,47158.0,3974786
+143,143,143,18.8460133983,-90.6448030472,Polanisia,2016-07-15 15:21:00 ,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Cleomaceae,,Polanisia,Polanisia,Polanisia,inat,72310.0,3974787
+144,144,144,18.8469528127,-90.6457901001,Panus lecomtei,2016-07-16 14:34:00 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Panaceae,,Panus,Panus lecomtei,Panus lecomtei,inat,536019.0,3974828
+145,145,145,18.8465066626,-90.646777153,Passalidae,2016-07-02 21:59:00 ,Animalia,Arthropoda,Insecta,Coleoptera,Passalidae,,,Passalidae,Passalidae,inat,84443.0,3974829
+146,146,146,18.8521725126,-90.6440734863,Ganoderma,2016-07-22 13:28:00 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Ganoderma,Ganoderma,Ganoderma,inat,48475.0,3980882
+147,147,147,18.8504927293,-90.650510788,Caulerpa racemosa,2016-06-26 13:47:00 ,Plantae,Chlorophyta,Ulvophyceae,Bryopsidales,Caulerpaceae,,Caulerpa,Caulerpa racemosa,Caulerpa racemosa,inat,50926.0,4146279
+148,148,148,18.8517111321,-90.6495666504,Animalia,2016-06-26 14:04:00 ,Animalia,,,,,,,Animalia,Animalia,inat,1.0,4146281
+149,149,149,18.849111862,-90.6572914124,Meleagris ocellata,2016-07-05 16:55:00 ,Animalia,Chordata,Aves,Galliformes,Phasianidae,,Meleagris,Meleagris ocellata,Meleagris ocellata,inat,913.0,4146282
+150,150,150,18.849111862,-90.7250976563,Eulepidotis rectimargo,2016-07-07 20:15:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Eulepidotinae,Eulepidotis,Eulepidotis rectimargo,Eulepidotis rectimargo,inat,311332.0,4146283
+151,151,151,18.8428572035,-90.6788349152,Taeniopoda obscura,2016-07-08 13:37:00 ,Animalia,Arthropoda,Insecta,Orthoptera,Romaleidae,Romaleinae,Taeniopoda,Taeniopoda obscura,Taeniopoda obscura,inat,293465.0,4146284
+152,152,152,18.8556099617,-90.6550598145,Omophoita cyanipennis,2016-07-09 12:17:00 ,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Galerucinae,Omophoita,Omophoita cyanipennis,Omophoita cyanipennis,inat,358164.0,4146285
+153,153,153,18.849111862,-90.6427001953,Lepidoptera,2016-07-10 02:56:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,,,,Lepidoptera,Lepidoptera,inat,47157.0,4146286
+154,154,154,18.8467562388,-90.6724834442,Kinosternon scorpioides cruentatum,2016-07-19 15:36:00 ,Animalia,Chordata,Reptilia,Testudines,Kinosternidae,Kinosterninae,Kinosternon,Kinosternon scorpioides cruentatum,Kinosternon scorpioides cruentatum,inat,39749.0,4146287
+155,155,155,18.8458629952,-90.6653599299,Plantae,2016-07-22 13:55:00 ,Plantae,,,,,,,Plantae,Plantae,inat,47126.0,4146288
+156,156,156,18.853010752,-90.6481933594,Nymphaea,2016-07-22 14:08:00 ,Plantae,Tracheophyta,Magnoliopsida,Nymphaeales,Nymphaeaceae,,Nymphaea,Nymphaea,Nymphaea,inat,51122.0,4146289
+157,157,157,18.8543103619,-90.6729125977,Fungi,2016-07-22 15:11:00 ,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,4146290
+158,158,158,18.8608082602,-90.6742858887,Pterulaceae,2016-07-23 14:21:00 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Pterulaceae,,,Pterulaceae,Pterulaceae,inat,328239.0,4146292
+159,159,159,18.856097309,-90.6658744812,Alouatta pigra,2016-08-01 19:08:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,4146293
+160,160,160,18.8504115021,-90.6811523438,Ganoderma,2016-08-06 12:57:00 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Ganoderma,Ganoderma,Ganoderma,inat,48475.0,4146294
+161,161,161,18.864057115,-90.6646728516,Leptoglossus,2016-08-06 13:48:00 ,Animalia,Arthropoda,Insecta,Hemiptera,Coreidae,Coreinae,Leptoglossus,Leptoglossus,Leptoglossus,inat,61257.0,4146295
+162,162,162,18.8127178564,-90.6921386719,Efferia,2016-08-06 13:28:00 ,Animalia,Arthropoda,Insecta,Diptera,Asilidae,Asilinae,Efferia,Efferia,Efferia,inat,61610.0,4146296
+163,163,163,18.8231169481,-90.6317138672,Marpesia petreus,2016-08-07 18:17:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Cyrestinae,Marpesia,Marpesia petreus,Marpesia petreus,inat,50283.0,4146297
+164,164,164,18.8552850627,-90.6619262695,Saturniidae,2016-08-07 21:45:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,,,Saturniidae,Saturniidae,inat,47918.0,4146298
+165,165,165,18.8458627178,-90.6667327881,Pseudosphinx tetrio,2016-08-07 19:16:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Macroglossinae,Pseudosphinx,Pseudosphinx tetrio,Pseudosphinx tetrio,inat,124467.0,4146299
+166,166,166,18.8484620382,-90.6708526611,Mammalia,2016-08-07 19:08:00 ,Animalia,Chordata,Mammalia,,,,,Mammalia,Mammalia,inat,40151.0,4146300
+167,167,167,18.8419636618,-90.661239624,Cucurbita,2016-07-23 13:05:00 ,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,,Cucurbita,Cucurbita,Cucurbita,inat,55425.0,4146301
+168,168,168,18.8427759726,-90.6457901001,Eacles imperialis,2016-06-10 02:51:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,Ceratocampinae,Eacles,Eacles imperialis,Eacles imperialis,inat,81590.0,4153352
+169,169,169,18.8419636618,-90.6499099731,Asilinae,2016-06-16 00:11:00 ,Animalia,Arthropoda,Insecta,Diptera,Asilidae,Asilinae,,Asilinae,Asilinae,inat,326683.0,4153353
+170,170,170,18.8421667399,-90.6482791901,Atta mexicana,2016-06-18 16:19:00 ,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Myrmicinae,Atta,Atta mexicana,Atta mexicana,inat,300315.0,4153354
+171,171,171,18.8418011992,-90.6472277641,Lepidoptera,2016-06-19 20:36:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,,,,Lepidoptera,Lepidoptera,inat,47157.0,4153355
+172,172,172,18.8510613183,-90.6459617615,Stagmomantis limbata,2016-09-25 17:59:00 ,Animalia,Arthropoda,Insecta,Mantodea,Mantidae,Stagmomantinae,Stagmomantis,Stagmomantis limbata,Stagmomantis limbata,inat,121308.0,4212303
+173,173,173,18.850777024,-90.6406188011,Catasetum integerrimum,2016-09-25 18:19:00 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Vandoideae,Catasetum,Catasetum integerrimum,Catasetum integerrimum,inat,276531.0,4212304
+174,174,174,18.8507364105,-90.6399106979,Catasetum integerrimum,2016-09-25 18:19:00 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Vandoideae,Catasetum,Catasetum integerrimum,Catasetum integerrimum,inat,276531.0,4212305
+175,175,175,18.845700259,-90.6432151794,,2017-01-04 14:34:00 ,,,,,,,,,,inat,,4901143
+176,176,176,18.849112,-90.646734,Basidiomycota,2017-01-04 13:37:00 ,Fungi,Basidiomycota,,,,,,Basidiomycota,Basidiomycota,inat,47169.0,4901269
+177,177,177,18.8452128815,-90.6475067139,,2017-01-04 14:34:00 ,,,,,,,,,,inat,,4901363
+178,178,178,18.8468374677,-90.5515480042,Xylaria,2017-01-04 14:34:00 ,Fungi,Ascomycota,Sordariomycetes,Xylariales,Xylariaceae,,Xylaria,Xylaria,Xylaria,inat,55268.0,5066098
+179,179,179,18.8481371254,-90.6481933594,Megasoma elephas,2017-01-07 18:58:00 ,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dynastinae,Megasoma,Megasoma elephas,Megasoma elephas,inat,122000.0,5067812
+180,180,180,18.8585340244,-90.7011508942,Acrocomia aculeata,,Plantae,Tracheophyta,Liliopsida,Arecales,Arecaceae,Arecoideae,Acrocomia,Acrocomia aculeata,Acrocomia aculeata,inat,244459.0,5109783
+181,181,181,18.8517111321,-90.662612915,Myrmeleontidae,2017-01-11 15:11:00 ,Animalia,Arthropoda,Insecta,Neuroptera,Myrmeleontidae,,,Myrmeleontidae,Myrmeleontidae,inat,49358.0,5309901
+182,182,182,18.850086593,-90.6642436981,Myrmeleontidae,2017-01-11 15:08:00 ,Animalia,Arthropoda,Insecta,Neuroptera,Myrmeleontidae,,,Myrmeleontidae,Myrmeleontidae,inat,49358.0,5309902
+183,183,183,18.8476497549,-90.6676769257,Odontotaenius,2017-01-11 15:44:00 ,Animalia,Arthropoda,Insecta,Coleoptera,Passalidae,Passalinae,Odontotaenius,Odontotaenius,Odontotaenius,inat,122924.0,5309903
+184,184,184,18.8471623831,-90.662355423,Coleoptera,2017-01-11 15:45:00 ,Animalia,Arthropoda,Insecta,Coleoptera,,,,Coleoptera,Coleoptera,inat,47208.0,5309905
+185,185,185,18.8425322798,-90.6561756134,Byttneria aculeata,2017-01-10 18:31:00 ,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Byttnerioideae,Byttneria,Byttneria aculeata,Byttneria aculeata,inat,184490.0,5309906
+186,186,186,18.8354650339,-90.6083679199,Pouteria campechiana,2017-01-12 14:55:00 ,Plantae,Tracheophyta,Magnoliopsida,Ericales,Sapotaceae,,Pouteria,Pouteria campechiana,Pouteria campechiana,inat,83585.0,5309907
+187,187,187,18.8318906813,-90.5874252319,Pouteria campechiana,2017-01-12 14:55:00 ,Plantae,Tracheophyta,Magnoliopsida,Ericales,Sapotaceae,,Pouteria,Pouteria campechiana,Pouteria campechiana,inat,83585.0,5309908
+188,188,188,18.8424510488,-90.6650161743,Pleurotus,2017-01-14 14:48:00 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Pleurotaceae,,Pleurotus,Pleurotus,Pleurotus,inat,48496.0,5309909
+189,189,189,18.8369272471,-90.6552314758,Plantae,2017-01-14 14:50:00 ,Plantae,,,,,,,Plantae,Plantae,inat,47126.0,5309910
+190,190,190,18.8305908979,-90.6593513489,Ascalapha odorata,2017-01-23 00:28:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Erebinae,Ascalapha,Ascalapha odorata,Ascalapha odorata,inat,61503.0,5309911
+191,191,191,18.8322156256,-90.6528282166,Apis mellifera,2017-01-14 16:22:00 ,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apinae,Apis,Apis mellifera,Apis mellifera,inat,47219.0,5309912
+192,192,192,18.8426135108,-90.6505966187,Manduca sexta,2017-01-07 19:09:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Sphinginae,Manduca,Manduca sexta,Manduca sexta,inat,61505.0,5309913
+193,193,193,18.8354650339,-90.6691360474,Lepidoptera,2017-01-07 19:07:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,,,,Lepidoptera,Lepidoptera,inat,47157.0,5309914
+194,194,194,18.7374661953,-90.7304599945,Eupsittula nana,2017-04-17 ,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,,Eupsittula,Eupsittula nana,Eupsittula nana,inat,367556.0,6722572
+195,195,195,18.78669,-90.6604516667,Vireo griseus,2017-04-17 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo griseus,Vireo griseus,inat,17408.0,6722582
+196,196,196,18.7871988994,-90.6600783447,Mniotilta varia,2017-04-17 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Mniotilta,Mniotilta varia,Mniotilta varia,inat,10286.0,6722601
+197,197,197,18.7863625166,-90.6613641529,Sporophila morelleti,2017-04-17 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Sporophila,Sporophila morelleti,Sporophila morelleti,inat,827413.0,6722646
+198,198,198,18.7854070247,-90.6601345539,Euphonia hirundinacea,2017-04-17 ,Animalia,Chordata,Aves,Passeriformes,Fringillidae,,Euphonia,Euphonia hirundinacea,Euphonia hirundinacea,inat,9287.0,6722673
+199,199,199,18.7846249089,-90.6584501266,Leiothlypis peregrina,2017-04-17 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Leiothlypis,Leiothlypis peregrina,Leiothlypis peregrina,inat,979756.0,6722729
+200,200,200,18.7871642328,-90.6582999229,Icterus galbula,2017-04-17 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus galbula,Icterus galbula,inat,9346.0,6724269
+201,201,201,18.7858234746,-90.6597268581,Columbina talpacoti,2017-07-22 13:21:00 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Columbina,Columbina talpacoti,Columbina talpacoti,inat,3580.0,7236769
+202,202,202,18.7858437892,-90.6597590446,Crotophaga sulcirostris,2017-07-22 21:12:00 ,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,,Crotophaga,Crotophaga sulcirostris,Crotophaga sulcirostris,inat,1972.0,7236770
+203,203,203,18.7858437892,-90.6597590446,Dives dives,2017-07-22 21:09:00 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Dives,Dives dives,Dives dives,inat,10001.0,7236771
+204,204,204,18.7858395066,-90.6597838111,Eumomota superciliosa,2017-07-22 21:20:00 ,Animalia,Chordata,Aves,Coraciiformes,Momotidae,,Eumomota,Eumomota superciliosa,Eumomota superciliosa,inat,2168.0,7236835
+205,205,205,18.669311917,-90.6804349745,Eupsittula nana,2017-07-22 21:17:00 ,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,,Eupsittula,Eupsittula nana,Eupsittula nana,inat,367556.0,7236836
+206,206,206,18.7858437892,-90.6597590446,Icterus gularis,2017-07-22 21:36:00 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus gularis,Icterus gularis,inat,9339.0,7236837
+207,207,207,18.785819192,-90.6597623535,Melanerpes aurifrons,2017-07-22 21:18:00 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Melanerpes,Melanerpes aurifrons,Melanerpes aurifrons,inat,18167.0,7236906
+208,208,208,18.7858437892,-90.6597590446,Mimus gilvus,2017-07-22 21:10:00 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,7236907
+209,209,209,18.7858437892,-90.6597590446,Polioptila caerulea,2017-07-22 21:39:00 ,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,,Polioptila,Polioptila caerulea,Polioptila caerulea,inat,7493.0,7236908
+210,210,210,18.7858437892,-90.6597590446,Saltator atriceps,2017-07-22 13:10:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Saltator,Saltator atriceps,Saltator atriceps,inat,9854.0,7236909
+211,211,211,18.7858437892,-90.6597590446,Tyrannus,2017-07-22 21:32:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus,Tyrannus,inat,16768.0,7236910
+212,212,212,18.7858437892,-90.6597590446,Volatinia jacarina,2017-07-22 13:06:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Volatinia,Volatinia jacarina,Volatinia jacarina,inat,10288.0,7236911
+213,213,213,18.812271006,-90.6466698647,Habia rubica,2017-07-22 15:54:00 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Habia,Habia rubica,Habia rubica,inat,9935.0,7236993
+214,214,214,18.812271006,-90.6466698647,Myiodynastes luteiventris,2017-07-22 15:49:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiodynastes,Myiodynastes luteiventris,Myiodynastes luteiventris,inat,16071.0,7236994
+215,215,215,18.778388,-90.632866,Columbina talpacoti,2017-07-22 23:20:00 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Columbina,Columbina talpacoti,Columbina talpacoti,inat,3580.0,7237081
+216,216,216,18.7787177293,-90.6330871634,Crotophaga sulcirostris,2017-07-22 22:49:00 ,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,,Crotophaga,Crotophaga sulcirostris,Crotophaga sulcirostris,inat,1972.0,7237082
+217,217,217,18.7790427763,-90.6330871634,Dives dives,2017-07-22 23:10:00 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Dives,Dives dives,Dives dives,inat,10001.0,7237083
+218,218,218,18.7788802528,-90.6325721793,Falco rufigularis,2017-07-23 00:05:00 ,Animalia,Chordata,Aves,Falconiformes,Falconidae,,Falco,Falco rufigularis,Falco rufigularis,inat,4664.0,7237084
+219,219,219,18.778388,-90.632866,Melanerpes aurifrons,2017-07-22 23:11:00 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Melanerpes,Melanerpes aurifrons,Melanerpes aurifrons,inat,18167.0,7237133
+220,220,220,18.7784287992,-90.6322288566,Mimus gilvus,2017-07-22 23:08:00 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,7237134
+221,221,221,18.7792414169,-90.6330871634,Elaenia flavogaster,2017-07-22 23:36:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Elaenia,Elaenia flavogaster,Elaenia flavogaster,inat,16714.0,7237135
+222,222,222,18.7787538467,-90.6329155021,Myiozetetes similis,2017-07-22 22:59:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiozetetes,Myiozetetes similis,Myiozetetes similis,inat,16842.0,7237136
+223,223,223,18.7792414169,-90.6325721793,Pyrocephalus rubinus,2017-07-22 22:54:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Pyrocephalus,Pyrocephalus rubinus,Pyrocephalus rubinus,inat,16447.0,7237137
+224,224,224,18.778388,-90.632866,Sporophila morelleti,2017-07-22 22:56:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Sporophila,Sporophila morelleti,Sporophila morelleti,inat,827413.0,7237225
+225,225,225,18.7792414169,-90.6330871634,Tiaris olivaceus,2017-07-22 23:02:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Tiaris,Tiaris olivaceus,Tiaris olivaceus,inat,73504.0,7237226
+226,226,226,18.7792414169,-90.6337738089,Tyrannus savana,2017-07-22 23:35:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus savana,Tyrannus savana,inat,16793.0,7237227
+227,227,227,18.7795664629,-90.6329155021,Tyrannus,2017-07-22 22:48:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus,Tyrannus,inat,16768.0,7237228
+228,228,228,18.7800540307,-90.6330871634,Volatinia jacarina,2017-07-22 22:49:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Volatinia,Volatinia jacarina,Volatinia jacarina,inat,10288.0,7237229
+229,229,229,18.785819192,-90.6598481842,Smilisca baudinii,2017-07-21 15:52:00 ,Animalia,Chordata,Amphibia,Anura,Hylidae,Hylinae,Smilisca,Smilisca baudinii,Smilisca baudinii,inat,24277.0,7247050
+230,230,230,18.843392221,-90.5804461138,Meliponini,2017-05-26 15:18:00 ,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apinae,,Meliponini,Meliponini,inat,200106.0,9046452
+231,231,231,18.6817151402,-90.6446109718,Edessinae,2018-03-15 15:16:58 ,Animalia,Arthropoda,Insecta,Hemiptera,Pentatomidae,Edessinae,,Edessinae,Edessinae,inat,494196.0,10254031
+232,232,232,18.6722673051,-90.6317138672,Glaucidium brasilianum,2017-11-06 16:54:00 ,Animalia,Chordata,Aves,Strigiformes,Strigidae,,Glaucidium,Glaucidium brasilianum,Glaucidium brasilianum,inat,19822.0,12817109
+233,233,233,18.6427158505,-90.6538817489,Anthracothorax prevostii,2017-10-18 15:56:00 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Anthracothorax,Anthracothorax prevostii,Anthracothorax prevostii,inat,5798.0,12817266
+234,234,234,18.643642707,-90.6605529785,Anthracothorax prevostii,2017-10-18 15:54:00 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Anthracothorax,Anthracothorax prevostii,Anthracothorax prevostii,inat,5798.0,12817267
+235,235,235,18.7847222,-90.6552777,Aramides albiventris,2017-11-02 21:00:00 ,Animalia,Chordata,Aves,Gruiformes,Rallidae,,Aramides,Aramides albiventris,Aramides albiventris,inat,513888.0,15078413
+236,236,236,18.8484429272,-90.7476527648,Aulacorhynchus prasinus,2018-07-26 04:29:00 ,Animalia,Chordata,Aves,Piciformes,Ramphastidae,,Aulacorhynchus,Aulacorhynchus prasinus,Aulacorhynchus prasinus,inat,559387.0,19693820
+237,237,237,18.7501901222,-90.6309105456,Pyrocephalus rubinus,2018-08-31 16:22:23 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Pyrocephalus,Pyrocephalus rubinus,Pyrocephalus rubinus,inat,16447.0,22962762
+238,238,238,18.8113633333,-90.645125,Magnoliopsida,2018-03-04 13:07:02 ,Plantae,Tracheophyta,Magnoliopsida,,,,,Magnoliopsida,Magnoliopsida,inat,47124.0,26390621
+239,239,239,18.8132166667,-90.6472083333,Boa imperator,2019-10-11 11:58:32 ,Animalia,Chordata,Reptilia,Squamata,Boidae,Boinae,Boa,Boa imperator,Boa imperator,inat,539399.0,34227551
+240,240,240,18.8132416667,-90.6457133333,Alouatta pigra,2019-10-11 12:23:54 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,34227609
+241,241,241,18.8122614851,-90.6466567889,Aramides albiventris,2019-01-05 23:49:00 ,Animalia,Chordata,Aves,Gruiformes,Rallidae,,Aramides,Aramides albiventris,Aramides albiventris,inat,513888.0,35916727
+242,242,242,18.651381815,-90.7397172805,Eira barbara,2019-01-02 18:54:00 ,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Guloninae,Eira,Eira barbara,Eira barbara,inat,41774.0,37387448
+243,243,243,18.8109474182,-90.6448898315,Bauhinia,2020-01-20 08:42:16 ,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Cercidoideae,Bauhinia,Bauhinia,Bauhinia,inat,68226.0,37802384
+244,244,244,18.7588134206,-90.629029188,Dendrocygna autumnalis,2018-10-06 12:19:00 ,Animalia,Chordata,Aves,Anseriformes,Anatidae,,Dendrocygna,Dendrocygna autumnalis,Dendrocygna autumnalis,inat,6893.0,40151879
+245,245,245,18.8515780565,-90.640323932,Ctenosaura similis,2020-02-16 14:09:00 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,42668969
+246,246,246,18.8369981082,-90.6458993516,Kinosternon scorpioides cruentatum,2020-02-16 15:49:00 ,Animalia,Chordata,Reptilia,Testudines,Kinosternidae,Kinosterninae,Kinosternon,Kinosternon scorpioides cruentatum,Kinosternon scorpioides cruentatum,inat,39749.0,42751329
+247,247,247,18.8129260477,-90.6456415728,Phallus haitangensis,2013-10-28 11:56:00 ,Fungi,Basidiomycota,Agaricomycetes,Phallales,Phallaceae,,Phallus,Phallus haitangensis,Phallus haitangensis,inat,1045188.0,44440109
+248,248,248,18.8130187181,-90.6431591883,Ateles geoffroyi,2013-10-28 11:58:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,44440117
+249,249,249,18.6593875927,-90.708943574,Imantodes gemmistratus luciodorsus,2020-03-04 03:02:00 ,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsadinae,Imantodes,Imantodes gemmistratus luciodorsus,Imantodes gemmistratus luciodorsus,inat,29884.0,49332103
+250,250,250,18.6660590007,-90.7068987078,Micrurus diastema,2020-03-04 00:32:00 ,Animalia,Chordata,Reptilia,Squamata,Elapidae,,Micrurus,Micrurus diastema,Micrurus diastema,inat,30591.0,49336176
+251,251,251,18.8122141774,-90.6460558852,Trachemys venusta,2000-01-02 07:15:00 ,Animalia,Chordata,Reptilia,Testudines,Emydidae,Deirochelyinae,Trachemys,Trachemys venusta,Trachemys venusta,inat,39783.0,52971888
+252,252,252,18.8546953889,-90.6356396944,Catasetum integerrimum,2020-08-14 18:27:00 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Vandoideae,Catasetum,Catasetum integerrimum,Catasetum integerrimum,inat,276531.0,56467388
+253,253,253,18.7632346321,-90.629382461,Zinnia elegans,2020-09-24 13:25:31 ,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Zinnia,Zinnia elegans,Zinnia elegans,inat,181901.0,60645271
+254,254,254,18.6938517854,-90.7139031732,Ctenosaura similis,2020-10-18 17:52:43 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,63030028
+255,255,255,18.6956286,-90.73216789,Ctenosaura similis,2020-10-18 12:51:09 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,63046375
+256,256,256,18.69545149,-90.73258769,Dichocrocis sabatalis,2020-10-18 12:54:37 ,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Spilomelinae,Dichocrocis,Dichocrocis sabatalis,Dichocrocis sabatalis,inat,541132.0,63046390
+257,257,257,18.79286208,-90.6868612,Ipomoea hederifolia,2020-10-18 13:45:56 ,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvuloideae,Ipomoea,Ipomoea hederifolia,Ipomoea hederifolia,inat,126300.0,63046413
+258,258,258,18.76220625,-90.65565456,Ipomoea peteri,2020-10-18 15:12:23 ,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvuloideae,Ipomoea,Ipomoea peteri,Ipomoea peteri,inat,866757.0,63046440
+259,259,259,18.76840865,-90.65401427,Mucuna pruriens,2020-10-18 15:42:31 ,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Faboideae,Mucuna,Mucuna pruriens,Mucuna pruriens,inat,165536.0,63046478
+260,260,260,18.77324801,-90.66180866,Eumaeus toxea,2020-10-18 16:46:04 ,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Theclinae,Eumaeus,Eumaeus toxea,Eumaeus toxea,inat,148489.0,63046507
+261,261,261,18.81208578,-90.64822553,Anoda,2020-10-18 17:23:50 ,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Malvoideae,Anoda,Anoda,Anoda,inat,71971.0,63046539
+262,262,262,18.81075693,-90.64956863,Magnoliopsida,2020-10-18 17:30:04 ,Plantae,Tracheophyta,Magnoliopsida,,,,,Magnoliopsida,Magnoliopsida,inat,47124.0,63046560
+263,263,263,18.81098274,-90.64929711,Wedelia acapulcensis,2020-10-18 17:30:41 ,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Wedelia,Wedelia acapulcensis,Wedelia acapulcensis,inat,273970.0,63046587
+264,264,264,18.81126983,-90.64890072,Distimake cissoides,2020-10-18 17:44:14 ,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvuloideae,Distimake,Distimake cissoides,Distimake cissoides,inat,993586.0,63046605
+265,265,265,18.7972662111,-90.629490987,Ctenosaura similis,2020-10-18 20:12:00 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,63047741
+266,266,266,18.8455888481,-90.7240201092,Desmodium,2020-10-18 23:17:11 ,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Faboideae,Desmodium,Desmodium,Desmodium,inat,85324.0,63367981
+267,267,267,18.6821547995,-90.6374997246,Distimake dissectus,2020-10-18 23:15:55 ,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvuloideae,Distimake,Distimake dissectus,Distimake dissectus,inat,907480.0,63368026
+268,268,268,18.8000078639,-90.6588527933,Asteraceae,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,,,Asteraceae,Asteraceae,inat,47604.0,65939760
+269,269,269,18.7960693391,-90.6562919542,Allophylus cominia,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,,Allophylus,Allophylus cominia,Allophylus cominia,inat,278595.0,65939980
+270,270,270,18.792862,-90.686861,Volatinia jacarina,2020-10-18 13:57:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Volatinia,Volatinia jacarina,Volatinia jacarina,inat,10288.0,67378848
+271,271,271,18.7929131415,-90.686709639,Volatinia jacarina,2020-10-18 13:58:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Volatinia,Volatinia jacarina,Volatinia jacarina,inat,10288.0,67378849
+272,272,272,18.7930289647,-90.686896076,Empidonax,2020-10-18 13:59:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Empidonax,Empidonax,Empidonax,inat,16597.0,67378850
+273,273,273,18.7929674771,-90.6868418937,Icteria virens,2020-10-18 14:00:00 ,Animalia,Chordata,Aves,Passeriformes,Icteriidae,,Icteria,Icteria virens,Icteria virens,inat,10243.0,67378851
+274,274,274,18.6598936769,-90.7445236015,Lophalia cyanicollis,2020-10-18 15:23:00 ,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,Lophalia,Lophalia cyanicollis,Lophalia cyanicollis,inat,269841.0,67379394
+275,275,275,18.7315984504,-90.6819970669,Desmodium distortum,2020-10-18 15:24:00 ,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Faboideae,Desmodium,Desmodium distortum,Desmodium distortum,inat,280581.0,67379395
+276,276,276,18.6679845232,-90.720832287,Stylommatophora,2020-10-18 15:28:00 ,Animalia,Mollusca,Gastropoda,Stylommatophora,,,,Stylommatophora,Stylommatophora,inat,47485.0,67379402
+277,277,277,18.6865494042,-90.6073232085,Aphelandra scabra,2020-10-18 15:29:00 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Acanthoideae,Aphelandra,Aphelandra scabra,Aphelandra scabra,inat,291092.0,67379403
+278,278,278,18.7112714994,-90.6715279131,Geothlypis poliocephala,2020-10-18 15:32:00 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Geothlypis,Geothlypis poliocephala,Geothlypis poliocephala,inat,9715.0,67379405
+279,279,279,18.6449634815,-90.7185155372,Cynanthus canivetii,2020-10-18 15:36:00 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Cynanthus,Cynanthus canivetii,Cynanthus canivetii,inat,1289675.0,67379406
+280,280,280,18.641886591,-90.7014983573,Icterus spurius,2020-10-18 15:40:00 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus spurius,Icterus spurius,inat,9325.0,67379407
+281,281,281,18.6490729634,-90.6392428228,Tremella fuciformis,2020-10-18 15:46:00 ,Fungi,Basidiomycota,Tremellomycetes,Tremellales,Tremellaceae,,Tremella,Tremella fuciformis,Tremella fuciformis,inat,143384.0,67379408
+282,282,282,18.6665734832,-90.6007137216,Trogia cantharelloides,2020-10-18 15:47:00 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Porotheleaceae,,Trogia,Trogia cantharelloides,Trogia cantharelloides,inat,352625.0,67379409
+283,283,283,18.823474827,-90.6792266977,Annona squamosa,2020-10-18 17:05:00 ,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Annonaceae,,Annona,Annona squamosa,Annona squamosa,inat,69973.0,67379804
+284,284,284,18.8099307798,-90.7454969858,Satyrini,2020-10-18 17:07:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Satyrinae,,Satyrini,Satyrini,inat,58598.0,67379805
+285,285,285,18.8298738621,-90.6511399804,Anartia fatima,2020-10-18 17:07:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Nymphalinae,Anartia,Anartia fatima,Anartia fatima,inat,54951.0,67379807
+286,286,286,18.8525259284,-90.6259446814,Glossophaga soricina,2020-10-18 17:31:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Glossophaginae,Glossophaga,Glossophaga soricina,Glossophaga soricina,inat,41090.0,67379809
+287,287,287,18.8218716227,-90.6847860806,Distimake cissoides,2020-10-18 17:45:00 ,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvuloideae,Distimake,Distimake cissoides,Distimake cissoides,inat,993586.0,67379810
+288,288,288,18.7398551539,-90.6622862768,Pentalinon andrieuxii,2020-10-18 16:43:00 ,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Apocynoideae,Pentalinon,Pentalinon andrieuxii,Pentalinon andrieuxii,inat,284324.0,67381798
+289,289,289,18.7140092378,-90.6251628032,Daldinia,2020-10-18 16:48:00 ,Fungi,Ascomycota,Sordariomycetes,Xylariales,Hypoxylaceae,,Daldinia,Daldinia,Daldinia,inat,85433.0,67381799
+290,290,290,18.6778810211,-90.6543049483,Fungi,2020-10-18 16:48:00 ,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,67381800
+291,291,291,18.6788664292,-90.7243947081,Polyporales,2020-10-18 16:49:00 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,,,,Polyporales,Polyporales,inat,47380.0,67381802
+292,292,292,18.7481820824,-90.716074366,Fungi,2020-10-18 16:50:00 ,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,67381803
+293,293,293,18.7823164708,-90.686814733,Xylaria,2020-10-18 16:50:00 ,Fungi,Ascomycota,Sordariomycetes,Xylariales,Xylariaceae,,Xylaria,Xylaria,Xylaria,inat,55268.0,67381804
+294,294,294,18.6995149359,-90.7345338926,Trametes,2020-10-18 16:50:00 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Trametes,Trametes,Trametes,inat,47378.0,67381805
+295,295,295,18.7847217213,-90.6552777439,Eucometis penicillata,2021-01-27 08:26:00 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Eucometis,Eucometis penicillata,Eucometis penicillata,inat,10698.0,68703562
+296,296,296,18.770628421,-90.6618216634,Laelia rubescens,2021-02-06 14:01:27 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Laelia,Laelia rubescens,Laelia rubescens,inat,316698.0,69264258
+297,297,297,18.7847217213,-90.6552777439,Empidonax,2021-02-06 12:57:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Empidonax,Empidonax,Empidonax,inat,16597.0,69264821
+298,298,298,18.7847217213,-90.6552777439,Melanerpes pygmaeus,2021-02-04 14:12:53 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Melanerpes,Melanerpes pygmaeus,Melanerpes pygmaeus,inat,18185.0,69264934
+299,299,299,18.7847217213,-90.6552777439,Piranga rubra,2021-02-04 14:22:49 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Piranga,Piranga rubra,Piranga rubra,inat,9915.0,69265104
+300,300,300,18.7847217213,-90.6552777439,Icterus cucullatus,2021-01-21 09:20:55 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus cucullatus,Icterus cucullatus,inat,9319.0,69265874
+301,301,301,18.7847217213,-90.6552777439,Bombycilla cedrorum,2021-01-22 09:03:23 ,Animalia,Chordata,Aves,Passeriformes,Bombycillidae,,Bombycilla,Bombycilla cedrorum,Bombycilla cedrorum,inat,7428.0,69265935
+302,302,302,18.7847217213,-90.6552777439,Sturnella magna,2020-12-19 08:26:22 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Sturnella,Sturnella magna,Sturnella magna,inat,9528.0,69266299
+303,303,303,18.7847217213,-90.6552777439,Dryobates scalaris,2021-01-21 08:42:51 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Dryobates,Dryobates scalaris,Dryobates scalaris,inat,792986.0,69266515
+304,304,304,18.7847217213,-90.6552777439,Aphelandra scabra,2021-02-08 13:50:51 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Acanthoideae,Aphelandra,Aphelandra scabra,Aphelandra scabra,inat,291092.0,69278769
+305,305,305,18.7847217213,-90.6552777439,Pampa curvipennis,2021-01-27 10:01:01 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Pampa,Pampa curvipennis,Pampa curvipennis,inat,1289672.0,69367004
+306,306,306,18.7847217213,-90.6552777439,Piaya cayana,2021-01-14 13:17:58 ,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,,Piaya,Piaya cayana,Piaya cayana,inat,1758.0,69367016
+307,307,307,18.7847217213,-90.6552777439,Alouatta pigra,2021-01-06 09:39:18 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,69367050
+308,308,308,18.7847217213,-90.6552777439,Gallinago delicata,2020-12-15 07:51:49 ,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,,Gallinago,Gallinago delicata,Gallinago delicata,inat,144496.0,69367092
+309,309,309,18.7847217213,-90.6552777439,Archilochus colubris,2021-02-09 14:01:27 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Archilochus,Archilochus colubris,Archilochus colubris,inat,6432.0,69379802
+310,310,310,18.7847217213,-90.6552777439,Setophaga americana,2021-02-09 13:59:37 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga americana,Setophaga americana,inat,145233.0,69379827
+311,311,311,18.7847217213,-90.6552777439,Campephilus guatemalensis,2021-02-10 08:01:13 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Campephilus,Campephilus guatemalensis,Campephilus guatemalensis,inat,18291.0,69379859
+312,312,312,18.7847217213,-90.6552777439,Mimus gilvus,2021-02-10 08:51:38 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,69381256
+313,313,313,18.7847217213,-90.6552777439,Amazilia yucatanensis,2020-12-12 08:37:21 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Amazilia,Amazilia yucatanensis,Amazilia yucatanensis,inat,5672.0,69420406
+314,314,314,18.7847217213,-90.6552777439,Mniotilta varia,2021-02-08 14:24:11 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Mniotilta,Mniotilta varia,Mniotilta varia,inat,10286.0,69420445
+315,315,315,18.7847217213,-90.6552777439,Habia fuscicauda,2021-02-02 14:27:26 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Habia,Habia fuscicauda,Habia fuscicauda,inat,9933.0,69420942
+316,316,316,18.7847217213,-90.6552777439,Zenaida asiatica,2021-02-09 07:13:01 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Zenaida,Zenaida asiatica,Zenaida asiatica,inat,3460.0,69421137
+317,317,317,18.7847217213,-90.6552777439,Megaskepasma erythrochlamys,2021-02-09 14:54:42 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Acanthoideae,Megaskepasma,Megaskepasma erythrochlamys,Megaskepasma erythrochlamys,inat,142283.0,69421184
+318,318,318,18.7847217213,-90.6552777439,Caesalpinia pulcherrima,2021-02-09 14:55:06 ,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Caesalpinioideae,Caesalpinia,Caesalpinia pulcherrima,Caesalpinia pulcherrima,inat,60439.0,69424801
+319,319,319,18.7847217213,-90.6552777439,Hibiscus sabdariffa,2021-02-09 14:54:30 ,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Malvoideae,Hibiscus,Hibiscus sabdariffa,Hibiscus sabdariffa,inat,163773.0,69424841
+320,320,320,18.7847217213,-90.6552777439,Leonotis nepetifolia,2021-02-09 13:34:05 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Lamioideae,Leonotis,Leonotis nepetifolia,Leonotis nepetifolia,inat,141634.0,69424895
+321,321,321,18.7847217213,-90.6552777439,Aphelandra scabra,2021-02-08 13:50:51 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Acanthoideae,Aphelandra,Aphelandra scabra,Aphelandra scabra,inat,291092.0,69424912
+322,322,322,18.7847217213,-90.6552777439,Anthracothorax prevostii,2021-01-22 09:14:14 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Anthracothorax,Anthracothorax prevostii,Anthracothorax prevostii,inat,5798.0,69425725
+323,323,323,18.7847217213,-90.6552777439,Passerina caerulea,2021-01-29 07:24:42 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina caerulea,Passerina caerulea,inat,73155.0,69425753
+324,324,324,18.8122548204,-90.6466567889,Bromelia pinguin,2021-02-11 15:51:48 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Bromelioideae,Bromelia,Bromelia pinguin,Bromelia pinguin,inat,154798.0,69445481
+325,325,325,18.8122548204,-90.6466567889,Ctenosaura similis,2021-02-11 15:29:04 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,69445549
+326,326,326,18.8122548204,-90.6466567889,Ehretia tinifolia,2021-02-11 15:24:33 ,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,Ehretioideae,Ehretia,Ehretia tinifolia,Ehretia tinifolia,inat,201456.0,69445622
+327,327,327,18.7847217213,-90.6552777439,Streptopelia decaocto,2021-02-09 07:15:48 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Streptopelia,Streptopelia decaocto,Streptopelia decaocto,inat,2969.0,69445702
+328,328,328,18.7847217213,-90.6552777439,Molothrus aeneus,2021-01-20 09:52:30 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Molothrus,Molothrus aeneus,Molothrus aeneus,inat,10369.0,69445746
+329,329,329,18.7847217213,-90.6552777439,Leptodon cayanensis,2021-01-28 08:47:48 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Leptodon,Leptodon cayanensis,Leptodon cayanensis,inat,5283.0,69445802
+330,330,330,18.7847217213,-90.6552777439,Rupornis magnirostris,2021-01-21 08:54:44 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Rupornis,Rupornis magnirostris,Rupornis magnirostris,inat,201041.0,69445815
+331,331,331,18.8122548204,-90.6466567889,Dendrocygna autumnalis,2021-01-22 07:19:53 ,Animalia,Chordata,Aves,Anseriformes,Anatidae,,Dendrocygna,Dendrocygna autumnalis,Dendrocygna autumnalis,inat,6893.0,69445874
+332,332,332,18.7847217213,-90.6552777439,Pitangus sulphuratus,2021-01-14 13:17:37 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Pitangus,Pitangus sulphuratus,Pitangus sulphuratus,inat,16956.0,69445885
+333,333,333,18.7847217213,-90.6552777439,Setophaga petechia,2020-12-18 08:16:05 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga petechia,Setophaga petechia,inat,145238.0,69445931
+334,334,334,18.7847217213,-90.6552777439,Cardinalis cardinalis,2021-01-21 09:05:08 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cardinalis,Cardinalis cardinalis,Cardinalis cardinalis,inat,9083.0,69445952
+335,335,335,18.7847217213,-90.6552777439,Ctenosaura similis,2021-01-06 09:50:27 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,69446019
+336,336,336,18.7847217213,-90.6552777439,Spinus psaltria,2021-01-01 10:16:27 ,Animalia,Chordata,Aves,Passeriformes,Fringillidae,,Spinus,Spinus psaltria,Spinus psaltria,inat,145308.0,69446117
+337,337,337,18.7847217213,-90.6552777439,Dendrocolaptes sanctithomae,2021-01-06 09:09:52 ,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptinae,Dendrocolaptes,Dendrocolaptes sanctithomae,Dendrocolaptes sanctithomae,inat,11126.0,69446287
+338,338,338,18.8102717,-90.6441676997,Alouatta pigra,2021-02-08 21:49:26 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,69483485
+339,339,339,18.8122419,-90.6463592,Pomacea,2021-02-12 17:14:40 ,Animalia,Mollusca,Gastropoda,Architaenioglossa,Ampullariidae,Pomaceinae,Pomacea,Pomacea,Pomacea,inat,84111.0,69483676
+340,340,340,18.7847217213,-90.6552777439,Cordia boissieri,2021-02-12 14:01:06 ,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Boraginaceae,Cordioideae,Cordia,Cordia boissieri,Cordia boissieri,inat,160873.0,69498966
+341,341,341,18.7847217213,-90.6552777439,Spathodea campanulata,2021-02-12 07:38:28 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,,Spathodea,Spathodea campanulata,Spathodea campanulata,inat,126566.0,69499073
+342,342,342,18.7847217213,-90.6552777439,Viguiera dentata,2021-02-12 06:24:53 ,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Viguiera,Viguiera dentata,Viguiera dentata,inat,170221.0,69499463
+343,343,343,18.7847217213,-90.6552777439,Bauhinia,2021-02-12 06:24:38 ,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Cercidoideae,Bauhinia,Bauhinia,Bauhinia,inat,68226.0,69532953
+344,344,344,18.7847217213,-90.6552777439,Annona reticulata,2021-02-26 11:51:57 ,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Annonaceae,,Annona,Annona reticulata,Annona reticulata,inat,284506.0,70205870
+345,345,345,18.7847217213,-90.6552777439,Setophaga virens,2021-02-23 15:54:27 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga virens,Setophaga virens,inat,145258.0,70216974
+346,346,346,18.7847217213,-90.6552777439,Tolmomyias sulphurescens,2021-02-22 16:21:51 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tolmomyias,Tolmomyias sulphurescens,Tolmomyias sulphurescens,inat,16567.0,70217084
+347,347,347,18.7847217213,-90.6552777439,Passerina ciris,2021-02-22 16:08:48 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina ciris,Passerina ciris,inat,10224.0,70217344
+348,348,348,18.7847217213,-90.6552777439,Psarocolius montezuma,,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Psarocolius,Psarocolius montezuma,Psarocolius montezuma,inat,68047.0,70221450
+349,349,349,18.7847217213,-90.6552777439,Setophaga ruticilla,2021-03-01 15:12:49 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga ruticilla,Setophaga ruticilla,inat,10247.0,70446140
+350,350,350,18.7847217213,-90.6552777439,Chlorestes candida,2021-03-01 14:54:04 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Chlorestes,Chlorestes candida,Chlorestes candida,inat,1289632.0,70446318
+351,351,351,18.7847217213,-90.6552777439,Setophaga magnolia,2021-03-01 14:22:25 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga magnolia,Setophaga magnolia,inat,145235.0,70446339
+352,352,352,18.7847217213,-90.6552777439,Thraupis episcopus,2021-02-28 07:22:01 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Thraupis,Thraupis episcopus,Thraupis episcopus,inat,10295.0,70446532
+353,353,353,18.7847217213,-90.6552777439,Turdus grayi,2021-02-26 09:40:27 ,Animalia,Chordata,Aves,Passeriformes,Turdidae,,Turdus,Turdus grayi,Turdus grayi,inat,12720.0,70446578
+354,354,354,18.7847217213,-90.6552777439,Thraupis abbas,2021-02-26 09:34:10 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Thraupis,Thraupis abbas,Thraupis abbas,inat,10294.0,70446604
+355,355,355,18.7847217213,-90.6552777439,Passerina cyanea,2021-02-24 14:48:09 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina cyanea,Passerina cyanea,inat,10227.0,70446885
+356,356,356,18.8129165267,-90.648205094,Empidonax minimus,2021-02-27 07:37:22 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Empidonax,Empidonax minimus,Empidonax minimus,inat,16602.0,70446980
+357,357,357,18.7847217213,-90.6552777439,Cyclarhis gujanensis,2021-02-24 13:59:32 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Cyclarhis,Cyclarhis gujanensis,Cyclarhis gujanensis,inat,17421.0,70447226
+358,358,358,18.8120956389,-90.6481246944,Pitangus sulphuratus,2017-11-29 20:29:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Pitangus,Pitangus sulphuratus,Pitangus sulphuratus,inat,16956.0,70719768
+359,359,359,18.8133220556,-90.6458053333,Myriopteris,2017-11-29 21:08:00 ,Plantae,Tracheophyta,Polypodiopsida,Polypodiales,Pteridaceae,Cheilanthoideae,Myriopteris,Myriopteris,Myriopteris,inat,481693.0,70719769
+360,360,360,18.81306075,-90.6469726389,Felis catus,2017-11-29 20:54:00 ,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felinae,Felis,Felis catus,Felis catus,inat,118552.0,70719770
+361,361,361,18.8118743889,-90.6452026111,Trametes sanguinea,2017-11-29 21:10:00 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Trametes,Trametes sanguinea,Trametes sanguinea,inat,974664.0,70719771
+362,362,362,18.811182,-90.6464080556,Fungi,2017-11-29 21:28:00 ,Fungi,,,,,,,Fungi,Fungi,inat,47170.0,70719772
+363,363,363,18.8117332222,-90.6470641944,Thrinax radiata,2017-11-29 21:32:00 ,Plantae,Tracheophyta,Liliopsida,Arecales,Arecaceae,Coryphoideae,Thrinax,Thrinax radiata,Thrinax radiata,inat,169735.0,70719773
+364,364,364,18.8128642778,-90.6466674722,Diplopoda,2017-11-29 21:55:00 ,Animalia,Arthropoda,Diplopoda,,,,,Diplopoda,Diplopoda,inat,47735.0,70719897
+365,365,365,18.7847217213,-90.6552777439,Trogon melanocephalus,2021-03-06 09:03:52 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon melanocephalus,Trogon melanocephalus,inat,20737.0,70885904
+366,366,366,18.7847217213,-90.6552777439,Myiarchus yucatanensis,2021-03-06 07:54:57 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiarchus,Myiarchus yucatanensis,Myiarchus yucatanensis,inat,16045.0,70886131
+367,367,367,18.7847217213,-90.6552777439,Myiarchus tyrannulus,2021-03-05 12:59:37 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiarchus,Myiarchus tyrannulus,Myiarchus tyrannulus,inat,16016.0,70886210
+368,368,368,18.7847217213,-90.6552777439,Ateles geoffroyi,2021-03-06 07:18:44 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,70886286
+369,369,369,18.7847217213,-90.6552777439,Tyrannus couchii,2021-03-05 13:26:18 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus couchii,Tyrannus couchii,inat,16770.0,70886369
+370,370,370,18.8129104968,-90.6465800107,Melanerpes pygmaeus,2021-03-05 12:28:46 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Melanerpes,Melanerpes pygmaeus,Melanerpes pygmaeus,inat,18185.0,70886523
+371,371,371,18.7847217213,-90.6552777439,Rhyncholaelia digbyana,2021-03-06 08:03:14 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Rhyncholaelia,Rhyncholaelia digbyana,Rhyncholaelia digbyana,inat,277074.0,70887285
+372,372,372,18.7847217213,-90.6552777439,Formicarius moniliger,,Animalia,Chordata,Aves,Passeriformes,Formicariidae,,Formicarius,Formicarius moniliger,Formicarius moniliger,inat,1286941.0,70922578
+373,373,373,18.7847217213,-90.6552777439,Phytolacca,2021-03-10 13:26:07 ,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Phytolaccaceae,,Phytolacca,Phytolacca,Phytolacca,inat,48601.0,70971687
+374,374,374,18.7847217213,-90.6552777439,Pachyramphus major,2021-03-10 14:09:12 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Pachyramphus,Pachyramphus major,Pachyramphus major,inat,8695.0,70976037
+375,375,375,18.7847217213,-90.6552777439,Thamnophilus doliatus,2021-03-10 12:32:06 ,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,,Thamnophilus,Thamnophilus doliatus,Thamnophilus doliatus,inat,15764.0,70976097
+376,376,376,18.7847217213,-90.6552777439,Philophyllia guttulata,2020-12-07 16:48:20 ,Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Phaneropterinae,Philophyllia,Philophyllia guttulata,Philophyllia guttulata,inat,256648.0,70997279
+377,377,377,18.7847217213,-90.6552777439,Zephyranthes rosea,2020-12-08 12:06:14 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,Amaryllidoideae,Zephyranthes,Zephyranthes rosea,Zephyranthes rosea,inat,170422.0,70997372
+378,378,378,18.7847217213,-90.6552777439,Centurio senex,2020-12-16 01:00:09 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Centurio,Centurio senex,Centurio senex,inat,41017.0,70997460
+379,379,379,18.7847217213,-90.6552777439,Smilisca baudinii,2020-12-12 18:47:07 ,Animalia,Chordata,Amphibia,Anura,Hylidae,Hylinae,Smilisca,Smilisca baudinii,Smilisca baudinii,inat,24277.0,71005628
+380,380,380,18.7847217213,-90.6552777439,Leptodactylus fragilis,2020-12-15 21:24:22 ,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylinae,Leptodactylus,Leptodactylus fragilis,Leptodactylus fragilis,inat,22976.0,71006614
+381,381,381,18.7847217213,-90.6552777439,Micronycteris microtis,2020-12-16 01:08:15 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,Micronycteris microtis,Micronycteris microtis,inat,74602.0,71007619
+382,382,382,18.7847217213,-90.6552777439,Spizaetus ornatus,2020-12-16 13:53:00 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Spizaetus,Spizaetus ornatus,Spizaetus ornatus,inat,5294.0,71007852
+383,383,383,18.7847217213,-90.6552777439,Sturnira parvidens,2020-12-16 23:56:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Sturnira,Sturnira parvidens,Sturnira parvidens,inat,1067750.0,71007884
+384,384,384,18.7847217213,-90.6552777439,Sphingidae,2020-12-16 00:08:46 ,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,,,Sphingidae,Sphingidae,inat,47213.0,71028560
+385,385,385,18.7847217213,-90.6552777439,Smilisca baudinii,2020-12-19 11:10:09 ,Animalia,Chordata,Amphibia,Anura,Hylidae,Hylinae,Smilisca,Smilisca baudinii,Smilisca baudinii,inat,24277.0,71028716
+386,386,386,18.7847217213,-90.6552777439,Cyanocompsa parellina,2021-03-11 13:16:51 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cyanocompsa,Cyanocompsa parellina,Cyanocompsa parellina,inat,9519.0,71058707
+387,387,387,18.7847217213,-90.6552777439,Vireo flavifrons,2021-03-11 13:16:11 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavifrons,Vireo flavifrons,inat,17365.0,71058742
+388,388,388,18.7847217213,-90.6552777439,Quiscalus mexicanus,2021-03-16 07:11:56 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Quiscalus,Quiscalus mexicanus,Quiscalus mexicanus,inat,9607.0,71520733
+389,389,389,18.7847217213,-90.6552777439,Passerina caerulea,2021-03-16 07:34:53 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina caerulea,Passerina caerulea,inat,73155.0,71520797
+390,390,390,18.8122548204,-90.6466567889,Alouatta pigra,2021-03-16 16:35:18 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,71520858
+391,391,391,18.7847217213,-90.6552777439,Setophaga petechia,2021-03-18 06:42:57 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga petechia,Setophaga petechia,inat,145238.0,71534358
+392,392,392,18.7847217213,-90.6552777439,Legatus leucophaius,2021-03-18 07:34:01 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Legatus,Legatus leucophaius,Legatus leucophaius,inat,17312.0,71543080
+393,393,393,18.7847217213,-90.6552777439,Ortalis vetula,2021-03-18 06:50:59 ,Animalia,Chordata,Aves,Galliformes,Cracidae,,Ortalis,Ortalis vetula,Ortalis vetula,inat,2090.0,71543506
+394,394,394,18.7847217213,-90.6552777439,Oncostoma cinereigulare,2021-03-18 09:06:24 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Oncostoma,Oncostoma cinereigulare,Oncostoma cinereigulare,inat,17295.0,71543603
+395,395,395,18.7847217213,-90.6552777439,Nyctibius jamaicensis,2021-03-18 08:09:07 ,Animalia,Chordata,Aves,Caprimulgiformes,Nyctibiidae,,Nyctibius,Nyctibius jamaicensis,Nyctibius jamaicensis,inat,19670.0,71543652
+396,396,396,18.7847217213,-90.6552777439,Buteogallus urubitinga,2021-03-18 08:47:39 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteogallus,Buteogallus urubitinga,Buteogallus urubitinga,inat,5238.0,71543698
+397,397,397,18.7847217213,-90.6552777439,Nyctibius jamaicensis,2021-01-28 08:47:48 ,Animalia,Chordata,Aves,Caprimulgiformes,Nyctibiidae,,Nyctibius,Nyctibius jamaicensis,Nyctibius jamaicensis,inat,19670.0,71543908
+398,398,398,18.7847217213,-90.6552777439,Myiozetetes similis,2021-03-04 13:22:50 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiozetetes,Myiozetetes similis,Myiozetetes similis,inat,16842.0,71544058
+399,399,399,18.7847217213,-90.6552777439,Patagioenas flavirostris,2021-03-19 08:41:30 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Patagioenas,Patagioenas flavirostris,Patagioenas flavirostris,inat,3117.0,71571565
+400,400,400,18.7847217213,-90.6552777439,Seiurus aurocapilla,2021-03-19 08:39:32 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Seiurus,Seiurus aurocapilla,Seiurus aurocapilla,inat,62550.0,71571636
+401,401,401,18.7847217213,-90.6552777439,Strix virgata,2021-03-19 07:50:02 ,Animalia,Chordata,Aves,Strigiformes,Strigidae,,Strix,Strix virgata,Strix virgata,inat,72674.0,71571738
+402,402,402,18.7847217213,-90.6552777439,Passerina ciris,2021-03-19 07:04:00 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina ciris,Passerina ciris,inat,10224.0,71572570
+403,403,403,18.7185928088,-90.6044257992,Eupsittula nana,2021-03-20 08:40:53 ,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,,Eupsittula,Eupsittula nana,Eupsittula nana,inat,367556.0,71802960
+404,404,404,18.7847217213,-90.6552777439,Progne chalybea,2021-03-20 08:35:05 ,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,Progne,Progne chalybea,Progne chalybea,inat,11872.0,71803006
+405,405,405,18.7847217213,-90.6552777439,Tityra semifasciata,2021-03-20 08:16:02 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Tityra,Tityra semifasciata,Tityra semifasciata,inat,8834.0,71803046
+406,406,406,18.7847217213,-90.6552777439,Columba livia,2021-03-20 07:01:18 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Columba,Columba livia,Columba livia,inat,3017.0,71803219
+407,407,407,18.7847217213,-90.6552777439,Myiozetetes similis,2021-03-20 07:17:53 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiozetetes,Myiozetetes similis,Myiozetetes similis,inat,16842.0,71803273
+408,408,408,18.7847217213,-90.6552777439,Eumomota superciliosa,2021-03-20 07:33:43 ,Animalia,Chordata,Aves,Coraciiformes,Momotidae,,Eumomota,Eumomota superciliosa,Eumomota superciliosa,inat,2168.0,71803288
+409,409,409,18.7847217213,-90.6552777439,Amazilia rutila,2021-03-24 09:25:29 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Amazilia,Amazilia rutila,Amazilia rutila,inat,5758.0,71973173
+410,410,410,18.7847217213,-90.6552777439,Icterus auratus,2021-03-24 09:27:21 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus auratus,Icterus auratus,inat,9332.0,71973376
+411,411,411,18.7847217213,-90.6552777439,Setophaga petechia,2021-03-24 09:16:13 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga petechia,Setophaga petechia,inat,145238.0,71976367
+412,412,412,18.7847217213,-90.6552777439,Passerina caerulea,2021-03-23 08:41:14 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina caerulea,Passerina caerulea,inat,73155.0,71976455
+413,413,413,18.7847217213,-90.6552777439,Tyrannus savana,2021-03-23 07:38:40 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus savana,Tyrannus savana,inat,16793.0,71976495
+414,414,414,18.7847217213,-90.6552777439,Sciurus yucatanensis,2021-03-22 17:02:54 ,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurinae,Sciurus,Sciurus yucatanensis,Sciurus yucatanensis,inat,46003.0,71987438
+415,415,415,18.7847217213,-90.6552777439,Troglodytes aedon,2021-03-25 06:55:20 ,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,,Troglodytes,Troglodytes aedon,Troglodytes aedon,inat,7562.0,72031426
+416,416,416,18.7847217213,-90.6552777439,Rhinella horribilis,2021-03-25 06:11:09 ,Animalia,Chordata,Amphibia,Anura,Bufonidae,,Rhinella,Rhinella horribilis,Rhinella horribilis,inat,517119.0,72033792
+417,417,417,18.7847217213,-90.6552777439,Campephilus guatemalensis,2021-03-28 07:11:51 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Campephilus,Campephilus guatemalensis,Campephilus guatemalensis,inat,18291.0,72300250
+418,418,418,18.7847217213,-90.6552777439,Tringa solitaria,2021-03-27 11:45:19 ,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,,Tringa,Tringa solitaria,Tringa solitaria,inat,3875.0,72300498
+419,419,419,18.7847217213,-90.6552777439,Stelgidopteryx serripennis,2021-03-27 09:18:57 ,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,Stelgidopteryx,Stelgidopteryx serripennis,Stelgidopteryx serripennis,inat,11970.0,72301062
+420,420,420,18.7847217213,-90.6552777439,Myiarchus tuberculifer,2021-03-27 08:28:25 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiarchus,Myiarchus tuberculifer,Myiarchus tuberculifer,inat,15990.0,72301251
+421,421,421,18.7847217213,-90.6552777439,Buteo plagiatus,2021-03-27 07:11:52 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteo,Buteo plagiatus,Buteo plagiatus,inat,199913.0,72301372
+422,422,422,18.7847217213,-90.6552777439,Strix virgata,2021-03-26 08:46:48 ,Animalia,Chordata,Aves,Strigiformes,Strigidae,,Strix,Strix virgata,Strix virgata,inat,72674.0,72301544
+423,423,423,18.7847217213,-90.6552777439,Volatinia jacarina,2021-03-26 08:11:23 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Volatinia,Volatinia jacarina,Volatinia jacarina,inat,10288.0,72301950
+424,424,424,18.7847217213,-90.6552777439,Orchidaceae,2021-03-26 17:31:21 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,,,Orchidaceae,Orchidaceae,inat,47217.0,72302274
+425,425,425,18.7847217213,-90.6552777439,Laelia rubescens,2021-03-26 17:30:50 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Laelia,Laelia rubescens,Laelia rubescens,inat,316698.0,72302471
+426,426,426,18.7847217213,-90.6552777439,Columbina talpacoti,2021-03-29 13:38:34 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Columbina,Columbina talpacoti,Columbina talpacoti,inat,3580.0,72408819
+427,427,427,18.7847217213,-90.6552777439,Trogon caligatus,2021-03-29 12:32:29 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon caligatus,Trogon caligatus,inat,73523.0,72409001
+428,428,428,18.7847217213,-90.6552777439,Pheucticus ludovicianus,2021-03-29 11:47:48 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Pheucticus,Pheucticus ludovicianus,Pheucticus ludovicianus,inat,10271.0,72409036
+429,429,429,18.7847217213,-90.6552777439,Contopus bogotensis,2021-03-29 11:31:14 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Contopus,Contopus bogotensis,Contopus bogotensis,inat,1441511.0,72409056
+430,430,430,18.7847217213,-90.6552777439,Cyanocorax yncas,2021-03-30 07:32:22 ,Animalia,Chordata,Aves,Passeriformes,Corvidae,,Cyanocorax,Cyanocorax yncas,Cyanocorax yncas,inat,8474.0,72503429
+431,431,431,18.7847217213,-90.6552777439,Trogon caligatus,2021-03-30 08:49:56 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon caligatus,Trogon caligatus,inat,73523.0,72505295
+432,432,432,18.7847217213,-90.6552777439,Archilochus colubris,2021-03-30 09:21:15 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Archilochus,Archilochus colubris,Archilochus colubris,inat,6432.0,72505325
+433,433,433,18.7847217213,-90.6552777439,Buteo brachyurus,2021-04-01 08:45:44 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteo,Buteo brachyurus,Buteo brachyurus,inat,5186.0,72620855
+434,434,434,18.7847217213,-90.6552777439,Cardinalis cardinalis,2021-04-01 08:40:53 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cardinalis,Cardinalis cardinalis,Cardinalis cardinalis,inat,9083.0,72621079
+435,435,435,18.7847217213,-90.6552777439,Piranga rubra,2021-04-01 08:31:54 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Piranga,Piranga rubra,Piranga rubra,inat,9915.0,72637732
+436,436,436,18.7847217213,-90.6552777439,Mimus gilvus,2021-04-01 06:52:27 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,72637776
+437,437,437,18.7847217213,-90.6552777439,Psilorhinus morio,2021-03-31 07:44:28 ,Animalia,Chordata,Aves,Passeriformes,Corvidae,,Psilorhinus,Psilorhinus morio,Psilorhinus morio,inat,8524.0,72637887
+438,438,438,18.7764084579,-90.6359242052,Holcosus undulatus gaigeae,2020-12-16 03:46:00 ,Animalia,Chordata,Reptilia,Squamata,Teiidae,Teiinae,Holcosus,Holcosus undulatus gaigeae,Holcosus undulatus gaigeae,inat,540435.0,73265169
+439,439,439,18.8122548,-90.6466567,Falco rufigularis,2020-12-17 18:19:00 ,Animalia,Chordata,Aves,Falconiformes,Falconidae,,Falco,Falco rufigularis,Falco rufigularis,inat,4664.0,73265416
+440,440,440,18.7765055556,-90.6353833333,Micronycteris microtis,2020-12-16 01:09:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,Micronycteris microtis,Micronycteris microtis,inat,74602.0,73316936
+441,441,441,18.7754111111,-90.6356416667,Dendropsophus microcephalus,2020-12-16 02:20:00 ,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophinae,Dendropsophus,Dendropsophus microcephalus,Dendropsophus microcephalus,inat,65373.0,73316937
+442,442,442,18.7765027778,-90.6353694444,Centurio senex,2020-12-16 22:19:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Centurio,Centurio senex,Centurio senex,inat,41017.0,73316938
+443,443,443,18.7765222222,-90.6344833333,Pteronotus mesoamericanus,2020-10-14 21:20:00 ,Animalia,Chordata,Mammalia,Chiroptera,Mormoopidae,,Pteronotus,Pteronotus mesoamericanus,Pteronotus mesoamericanus,inat,765484.0,73316939
+444,444,444,18.7765472222,-90.6353222222,Artibeus lituratus,2020-10-14 23:06:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Artibeus,Artibeus lituratus,Artibeus lituratus,inat,41006.0,73316940
+445,445,445,18.7766083333,-90.6344388889,Dermanura phaeotis,2020-10-14 22:30:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Dermanura,Dermanura phaeotis,Dermanura phaeotis,inat,197799.0,73318693
+446,446,446,18.784722,-90.655278,Aspidoscelis angusticeps,2020-12-10 ,Animalia,Chordata,Reptilia,Squamata,Teiidae,Teiinae,Aspidoscelis,Aspidoscelis angusticeps,Aspidoscelis angusticeps,inat,73650.0,73319230
+447,447,447,18.8126083333,-90.6475444444,Desmodus rotundus,2020-11-24 19:35:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodontinae,Desmodus,Desmodus rotundus,Desmodus rotundus,inat,41168.0,73319561
+448,448,448,18.8121111111,-90.6480027778,Sturnira parvidens,2020-11-25 02:44:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Sturnira,Sturnira parvidens,Sturnira parvidens,inat,1067750.0,73319757
+449,449,449,18.8122472222,-90.6478277778,Uroderma bilobatum,2020-11-12 23:08:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Uroderma,Uroderma bilobatum,Uroderma bilobatum,inat,41153.0,73319885
+450,450,450,18.7765194444,-90.6353138889,Glossophaga soricina,2020-10-15 21:21:00 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Glossophaginae,Glossophaga,Glossophaga soricina,Glossophaga soricina,inat,41090.0,73320402
+451,451,451,18.7847217213,-90.6552777439,Nyctidromus albicollis,,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,,Nyctidromus,Nyctidromus albicollis,Nyctidromus albicollis,inat,19627.0,73385327
+452,452,452,18.7401483677,-90.69474554,Tliltocatl,2021-04-11 15:46:33 ,Animalia,Arthropoda,Arachnida,Araneae,Theraphosidae,Theraphosinae,Tliltocatl,Tliltocatl,Tliltocatl,inat,1042036.0,73715749
+453,453,453,18.7847217213,-90.6552777439,Sporophila morelleti,2021-04-11 08:07:59 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Sporophila,Sporophila morelleti,Sporophila morelleti,inat,827413.0,73715873
+454,454,454,18.7847217213,-90.6552777439,Megarynchus pitangua,2021-04-11 07:44:48 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Megarynchus,Megarynchus pitangua,Megarynchus pitangua,inat,16737.0,73715905
+455,455,455,18.7847217213,-90.6552777439,Ortalis vetula,2021-04-11 07:41:55 ,Animalia,Chordata,Aves,Galliformes,Cracidae,,Ortalis,Ortalis vetula,Ortalis vetula,inat,2090.0,73715939
+456,456,456,18.7847217213,-90.6552777439,Vireo flavoviridis,2021-04-11 07:12:58 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,73716866
+457,457,457,18.7847217213,-90.6552777439,Myiodynastes luteiventris,2021-04-11 06:32:55 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiodynastes,Myiodynastes luteiventris,Myiodynastes luteiventris,inat,16071.0,73716936
+458,458,458,18.7847217213,-90.6552777439,Dromococcyx phasianellus,2021-04-10 07:19:17 ,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,,Dromococcyx,Dromococcyx phasianellus,Dromococcyx phasianellus,inat,1982.0,73717068
+459,459,459,18.7847217213,-90.6552777439,Alouatta pigra,2021-04-11 06:40:02 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,73717537
+460,460,460,18.7847217213,-90.6552777439,Passerina ciris,2021-04-12 16:48:06 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina ciris,Passerina ciris,inat,10224.0,73956225
+461,461,461,18.8122548204,-90.6466567889,Trogon caligatus,2021-04-12 11:10:45 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon caligatus,Trogon caligatus,inat,73523.0,73956499
+462,462,462,18.7847217213,-90.6552777439,Attila spadiceus,2021-04-12 09:10:09 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Attila,Attila spadiceus,Attila spadiceus,inat,16748.0,73956850
+463,463,463,18.7847217213,-90.6552777439,Hirundo rustica,2021-04-17 08:56:40 ,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,Hirundo,Hirundo rustica,Hirundo rustica,inat,11901.0,74296251
+464,464,464,18.7847217213,-90.6552777439,Pitangus sulphuratus,2021-04-17 07:07:46 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Pitangus,Pitangus sulphuratus,Pitangus sulphuratus,inat,16956.0,74296347
+465,465,465,18.7847217213,-90.6552777439,Pachyramphus aglaiae,2021-04-17 06:50:20 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Pachyramphus,Pachyramphus aglaiae,Pachyramphus aglaiae,inat,8671.0,74296521
+466,466,466,18.7847217213,-90.6552777439,Myiodynastes luteiventris,2021-04-17 06:22:24 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiodynastes,Myiodynastes luteiventris,Myiodynastes luteiventris,inat,16071.0,74296637
+467,467,467,18.7847217213,-90.6552777439,Xiphorhynchus flavigaster,2021-04-17 17:11:55 ,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptinae,Xiphorhynchus,Xiphorhynchus flavigaster,Xiphorhynchus flavigaster,inat,11051.0,74322426
+468,468,468,18.7847217213,-90.6552777439,Myiopagis viridicata,2021-04-17 16:51:52 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiopagis,Myiopagis viridicata,Myiopagis viridicata,inat,16892.0,74322622
+469,469,469,18.7847217213,-90.6552777439,Amblycercus holosericeus,2021-04-17 16:36:57 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Amblycercus,Amblycercus holosericeus,Amblycercus holosericeus,inat,10426.0,74381124
+470,470,470,18.7847217213,-90.6552777439,Vireo flavoviridis,2021-04-20 08:18:30 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,74644458
+471,471,471,18.7847217213,-90.6552777439,Ortalis vetula,2021-04-20 07:53:32 ,Animalia,Chordata,Aves,Galliformes,Cracidae,,Ortalis,Ortalis vetula,Ortalis vetula,inat,2090.0,74644580
+472,472,472,18.7847217213,-90.6552777439,Spiza americana,2021-04-19 15:05:01 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Spiza,Spiza americana,Spiza americana,inat,10676.0,74647697
+473,473,473,18.7847217213,-90.6552777439,Geranoaetus albicaudatus,2021-04-22 08:34:36 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Geranoaetus,Geranoaetus albicaudatus,Geranoaetus albicaudatus,inat,201043.0,75081036
+474,474,474,18.7847217213,-90.6552777439,Tolmomyias sulphurescens,2021-04-22 07:25:06 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tolmomyias,Tolmomyias sulphurescens,Tolmomyias sulphurescens,inat,16567.0,75083247
+475,475,475,18.7847217213,-90.6552777439,Myiopagis viridicata,2021-04-21 13:03:06 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiopagis,Myiopagis viridicata,Myiopagis viridicata,inat,16892.0,75084065
+476,476,476,18.7847217213,-90.6552777439,Tityra inquisitor,2021-04-21 11:21:48 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Tityra,Tityra inquisitor,Tityra inquisitor,inat,8823.0,75084323
+477,477,477,18.7847217213,-90.6552777439,Amazilia yucatanensis,2021-04-21 11:16:16 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Amazilia,Amazilia yucatanensis,Amazilia yucatanensis,inat,5672.0,75084518
+478,478,478,18.7847858397,-90.6552777439,Legatus leucophaius,2021-04-29 23:43:28 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Legatus,Legatus leucophaius,Legatus leucophaius,inat,17312.0,75893925
+479,479,479,18.7847858397,-90.6552777439,Melanoptila glabrirostris,2021-04-30 12:27:38 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Melanoptila,Melanoptila glabrirostris,Melanoptila glabrirostris,inat,15018.0,75894057
+480,480,480,18.7847858397,-90.6552777439,Vireo flavoviridis,2021-04-30 12:26:06 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,75894264
+481,481,481,18.7847858397,-90.6552777439,Ateles geoffroyi,2021-05-03 22:40:04 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,77281204
+482,482,482,18.7847858397,-90.6552777439,Tyrannus savana,2021-05-03 22:16:59 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus savana,Tyrannus savana,inat,16793.0,77281937
+483,483,483,18.7847858397,-90.6552777439,Tachycineta albilinea,2021-05-03 21:57:30 ,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,Tachycineta,Tachycineta albilinea,Tachycineta albilinea,inat,11930.0,77282036
+484,484,484,18.7847858397,-90.6552777439,Cochlearius cochlearius,2021-05-03 21:23:42 ,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Tigriornithinae,Cochlearius,Cochlearius cochlearius,Cochlearius cochlearius,inat,5036.0,77282152
+485,485,485,18.7847858397,-90.6552777439,Passeriformes,2021-05-03 15:43:53 ,Animalia,Chordata,Aves,Passeriformes,,,,Passeriformes,Passeriformes,inat,7251.0,77283431
+486,486,486,18.7847858397,-90.6552777439,Pachysylvia decurtata,2021-05-04 12:54:41 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Pachysylvia,Pachysylvia decurtata,Pachysylvia decurtata,inat,515240.0,77368446
+487,487,487,18.7847858397,-90.6552777439,Smilisca baudinii,2021-04-30 13:43:08 ,Animalia,Chordata,Amphibia,Anura,Hylidae,Hylinae,Smilisca,Smilisca baudinii,Smilisca baudinii,inat,24277.0,77371708
+488,488,488,18.7847858397,-90.6552777439,Calopteron reticulatum,2021-04-13 19:16:30 ,Animalia,Arthropoda,Insecta,Coleoptera,Lycidae,Lycinae,Calopteron,Calopteron reticulatum,Calopteron reticulatum,inat,132719.0,77372072
+489,489,489,18.7847858397,-90.6552777439,Biza,2021-05-04 15:09:18 ,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Neocoelidiinae,Biza,Biza,Biza,inat,1239600.0,77372426
+490,490,490,18.7847858397,-90.6552777439,Elaenia flavogaster,2021-05-05 14:48:33 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Elaenia,Elaenia flavogaster,Elaenia flavogaster,inat,16714.0,77529665
+491,491,491,18.7847858397,-90.6552777439,Setophaga magnolia,2021-05-05 15:20:41 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga magnolia,Setophaga magnolia,inat,145235.0,77530063
+492,492,492,18.7847858397,-90.6552777439,Pontederia sagittata,2021-05-05 13:47:00 ,Plantae,Tracheophyta,Liliopsida,Commelinales,Pontederiaceae,,Pontederia,Pontederia sagittata,Pontederia sagittata,inat,283881.0,77530209
+493,493,493,18.7847858397,-90.6552777439,Pontederia crassipes,2021-05-05 18:48:52 ,Plantae,Tracheophyta,Liliopsida,Commelinales,Pontederiaceae,,Pontederia,Pontederia crassipes,Pontederia crassipes,inat,962637.0,77530350
+494,494,494,18.7847858397,-90.6552777439,Cairina moschata,,Animalia,Chordata,Aves,Anseriformes,Anatidae,,Cairina,Cairina moschata,Cairina moschata,inat,7120.0,77541763
+495,495,495,18.7847858397,-90.6552777439,Ramphocaenus melanurus,2021-05-08 13:55:36 ,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,,Ramphocaenus,Ramphocaenus melanurus,Ramphocaenus melanurus,inat,979934.0,78151317
+496,496,496,18.7847858397,-90.6552777439,Cydnidae,2021-05-07 19:01:12 ,Animalia,Arthropoda,Insecta,Hemiptera,Cydnidae,,,Cydnidae,Cydnidae,inat,57843.0,78153803
+497,497,497,18.7847858397,-90.6552777439,Tityra inquisitor,2021-05-13 14:04:57 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Tityra,Tityra inquisitor,Tityra inquisitor,inat,8823.0,78708949
+498,498,498,18.7847858397,-90.6552777439,Trogon caligatus,2021-05-13 14:30:25 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon caligatus,Trogon caligatus,inat,73523.0,78793146
+499,499,499,18.7847858397,-90.6552777439,Cyclarhis gujanensis,2021-05-13 14:33:47 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Cyclarhis,Cyclarhis gujanensis,Cyclarhis gujanensis,inat,17421.0,78793169
+500,500,500,18.7847858397,-90.6552777439,Oxybelis potosiensis,2021-05-12 13:45:00 ,Animalia,Chordata,Reptilia,Squamata,Colubridae,Colubrinae,Oxybelis,Oxybelis potosiensis,Oxybelis potosiensis,inat,1286332.0,78793273
+501,501,501,18.7847858397,-90.6552777439,Cynanthus canivetii,2021-05-20 13:19:58 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Cynanthus,Cynanthus canivetii,Cynanthus canivetii,inat,1289675.0,79564936
+502,502,502,18.7847858397,-90.6552777439,Magnoliopsida,2021-05-20 14:15:43 ,Plantae,Tracheophyta,Magnoliopsida,,,,,Magnoliopsida,Magnoliopsida,inat,47124.0,79575176
+503,503,503,18.7847858397,-90.6552777439,Contopus virens,2021-05-20 13:57:07 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Contopus,Contopus virens,Contopus virens,inat,16100.0,79575306
+504,504,504,18.7847858397,-90.6552777439,Cyanocorax yncas,2021-05-20 12:22:46 ,Animalia,Chordata,Aves,Passeriformes,Corvidae,,Cyanocorax,Cyanocorax yncas,Cyanocorax yncas,inat,8474.0,79575434
+505,505,505,18.7847858397,-90.6552777439,Bombycilla cedrorum,2021-05-20 14:07:29 ,Animalia,Chordata,Aves,Passeriformes,Bombycillidae,,Bombycilla,Bombycilla cedrorum,Bombycilla cedrorum,inat,7428.0,79575555
+506,506,506,18.7847858397,-90.6552777439,Megarynchus pitangua,2021-05-20 13:39:30 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Megarynchus,Megarynchus pitangua,Megarynchus pitangua,inat,16737.0,79575734
+507,507,507,18.7847858397,-90.6552777439,Euchroma giganteum,2021-05-19 18:40:41 ,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,Chrysochroinae,Euchroma,Euchroma giganteum,Euchroma giganteum,inat,311087.0,79579626
+508,508,508,18.7847858397,-90.6552777439,Arremonops chloronotus,2021-05-19 18:27:43 ,Animalia,Chordata,Aves,Passeriformes,Passerellidae,,Arremonops,Arremonops chloronotus,Arremonops chloronotus,inat,10176.0,79580086
+509,509,509,18.7847858397,-90.6552777439,Uropsila leucogastra,2021-05-19 18:19:27 ,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,,Uropsila,Uropsila leucogastra,Uropsila leucogastra,inat,7616.0,79581253
+510,510,510,18.7847858397,-90.6552777439,Anolis sagrei,2021-05-16 15:49:34 ,Animalia,Chordata,Reptilia,Squamata,Anolidae,,Anolis,Anolis sagrei,Anolis sagrei,inat,116461.0,79583979
+511,511,511,18.7847858397,-90.6552777439,Arremonops chloronotus,2021-05-22 13:19:37 ,Animalia,Chordata,Aves,Passeriformes,Passerellidae,,Arremonops,Arremonops chloronotus,Arremonops chloronotus,inat,10176.0,80238855
+512,512,512,18.7847858397,-90.6552777439,Cardinalis cardinalis,2021-05-22 13:11:52 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cardinalis,Cardinalis cardinalis,Cardinalis cardinalis,inat,9083.0,80239068
+513,513,513,18.7847858397,-90.6552777439,Leptotila verreauxi,2021-05-25 13:34:56 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Leptotila,Leptotila verreauxi,Leptotila verreauxi,inat,3280.0,80262775
+514,514,514,18.7847858397,-90.6552777439,Megaceryle torquata,2021-05-25 12:26:52 ,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,,Megaceryle,Megaceryle torquata,Megaceryle torquata,inat,2552.0,80262872
+515,515,515,18.7960673454,-90.6189795563,Eupsittula nana,2021-05-26 23:08:00 ,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,,Eupsittula,Eupsittula nana,Eupsittula nana,inat,367556.0,81025487
+516,516,516,18.7847858397,-90.6552777439,Tiaris olivaceus,2021-05-29 12:47:38 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Tiaris,Tiaris olivaceus,Tiaris olivaceus,inat,73504.0,81137880
+517,517,517,18.7847858397,-90.6552777439,Oryctolagus cuniculus,2021-06-03 11:48:06 ,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,,Oryctolagus,Oryctolagus cuniculus,Oryctolagus cuniculus,inat,43151.0,81454249
+518,518,518,18.7847858397,-90.6552777439,Nasua narica,2021-06-03 12:00:32 ,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,,Nasua,Nasua narica,Nasua narica,inat,41673.0,81521052
+519,519,519,18.7847858397,-90.6552777439,Incilius valliceps,2021-06-04 12:30:11 ,Animalia,Chordata,Amphibia,Anura,Bufonidae,,Incilius,Incilius valliceps,Incilius valliceps,inat,65860.0,81711945
+520,520,520,18.8122621198,-90.6466567889,Sittasomus griseicapillus,2021-06-04 14:23:31 ,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptinae,Sittasomus,Sittasomus griseicapillus,Sittasomus griseicapillus,inat,11511.0,81713582
+521,521,521,18.8122621198,-90.6466567889,Trogon collaris,2021-06-04 14:05:42 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon collaris,Trogon collaris,inat,20754.0,81713755
+522,522,522,18.7847858397,-90.6552777439,Molothrus aeneus,2021-06-01 17:31:57 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Molothrus,Molothrus aeneus,Molothrus aeneus,inat,10369.0,81714598
+523,523,523,18.7847858397,-90.6552777439,Mimus gilvus,2021-06-01 17:54:05 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,81714717
+524,524,524,18.7847858397,-90.6552777439,Erythrodiplax umbrata,2021-06-09 17:01:45 ,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,,Erythrodiplax,Erythrodiplax umbrata,Erythrodiplax umbrata,inat,50342.0,82762813
+525,525,525,18.7847858397,-90.6552777439,Chromacris miles,2021-06-08 21:54:47 ,Animalia,Arthropoda,Insecta,Orthoptera,Romaleidae,Romaleinae,Chromacris,Chromacris miles,Chromacris miles,inat,760331.0,82766119
+526,526,526,18.7847858397,-90.6552777439,Arremonops rufivirgatus,2021-06-10 12:08:51 ,Animalia,Chordata,Aves,Passeriformes,Passerellidae,,Arremonops,Arremonops rufivirgatus,Arremonops rufivirgatus,inat,10173.0,82767279
+527,527,527,18.7847858397,-90.6552777439,Urocyon cinereoargenteus,2021-06-10 12:26:20 ,Animalia,Chordata,Mammalia,Carnivora,Canidae,,Urocyon,Urocyon cinereoargenteus,Urocyon cinereoargenteus,inat,42076.0,82768212
+528,528,528,18.7847858397,-90.6552777439,Cochlearius cochlearius,2021-06-10 13:21:23 ,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Tigriornithinae,Cochlearius,Cochlearius cochlearius,Cochlearius cochlearius,inat,5036.0,82768413
+529,529,529,18.7847858397,-90.6552777439,Dendrocygna autumnalis,2021-06-10 13:25:27 ,Animalia,Chordata,Aves,Anseriformes,Anatidae,,Dendrocygna,Dendrocygna autumnalis,Dendrocygna autumnalis,inat,6893.0,82813614
+530,530,530,18.7847858397,-90.6552777439,Buteo plagiatus,2021-06-10 13:48:36 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteo,Buteo plagiatus,Buteo plagiatus,inat,199913.0,82813648
+531,531,531,18.7847858397,-90.6552777439,Dryobates fumigatus,2021-06-10 14:33:45 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Dryobates,Dryobates fumigatus,Dryobates fumigatus,inat,792989.0,82813694
+532,532,532,18.7847858397,-90.6552777439,Amazilia tzacatl,2021-06-09 16:59:41 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Amazilia,Amazilia tzacatl,Amazilia tzacatl,inat,5676.0,82813735
+533,533,533,18.7847858397,-90.6552777439,Fulvifomes robiniae,2021-05-12 17:52:25 ,Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetaceae,,Fulvifomes,Fulvifomes robiniae,Fulvifomes robiniae,inat,1145488.0,82813852
+534,534,534,18.7847858397,-90.6552777439,Clytini,2021-05-08 20:24:36 ,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Cerambycinae,,Clytini,Clytini,inat,339436.0,82813983
+535,535,535,18.7847858397,-90.6552777439,Thevetia ahouai,2021-06-15 18:30:21 ,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Rauvolfioideae,Thevetia,Thevetia ahouai,Thevetia ahouai,inat,277562.0,83252559
+536,536,536,18.7847858397,-90.6552777439,Volatinia jacarina,2021-06-15 17:54:57 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Volatinia,Volatinia jacarina,Volatinia jacarina,inat,10288.0,83252606
+537,537,537,18.8122621198,-90.6466567889,Chlorestes candida,2021-06-16 21:17:54 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Chlorestes,Chlorestes candida,Chlorestes candida,inat,1289632.0,83335925
+538,538,538,18.8122548,-90.6466567,Eudesmia,2018-10-19 21:15:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Arctiinae,Eudesmia,Eudesmia,Eudesmia,inat,247532.0,83436414
+539,539,539,18.8122548,-90.6466567,Hygrocybe,2019-10-19 23:02:00 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Hygrophoraceae,Hygrocyboideae,Hygrocybe,Hygrocybe,Hygrocybe,inat,51871.0,83445434
+540,540,540,18.8122548,-90.6466567,Agaricales,2019-10-19 23:19:00 ,Fungi,Basidiomycota,Agaricomycetes,Agaricales,,,,Agaricales,Agaricales,inat,47167.0,83446217
+541,541,541,18.8122548,-90.6466567,Rhodofomes,2019-10-19 23:48:00 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Fomitopsidaceae,,Rhodofomes,Rhodofomes,Rhodofomes,inat,539002.0,83449315
+542,542,542,18.7847858397,-90.6552777439,Basiliscus vittatus,2021-06-24 15:42:48 ,Animalia,Chordata,Reptilia,Squamata,Corytophanidae,,Basiliscus,Basiliscus vittatus,Basiliscus vittatus,inat,33118.0,84614588
+543,543,543,18.7130056294,-90.7298227027,Alouatta palliata,2020-09-02 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta palliata,Alouatta palliata,inat,43436.0,85945623
+544,544,544,18.8331104884,-90.7139098272,Incilius valliceps,2020-09-06 16:06:37 ,Animalia,Chordata,Amphibia,Anura,Bufonidae,,Incilius,Incilius valliceps,Incilius valliceps,inat,65860.0,85961041
+545,545,545,18.7746040458,-90.658528246,Phasianidae,2020-05-29 14:18:28 ,Animalia,Chordata,Aves,Galliformes,Phasianidae,,,Phasianidae,Phasianidae,inat,574.0,85962550
+546,546,546,18.7847858397,-90.6552777439,Chromacris miles,2021-07-05 16:49:20 ,Animalia,Arthropoda,Insecta,Orthoptera,Romaleidae,Romaleinae,Chromacris,Chromacris miles,Chromacris miles,inat,760331.0,86775451
+547,547,547,18.7847858397,-90.6552777439,Icterus mesomelas,2021-07-09 13:59:47 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus mesomelas,Icterus mesomelas,inat,9350.0,86775833
+548,548,548,18.7847858397,-90.6552777439,Cardinalis cardinalis,2021-07-09 13:55:11 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cardinalis,Cardinalis cardinalis,Cardinalis cardinalis,inat,9083.0,86775946
+549,549,549,18.7847858397,-90.6552777439,Myrmecophila christinae,2021-07-07 13:17:35 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Epidendroideae,Myrmecophila,Myrmecophila christinae,Myrmecophila christinae,inat,429088.0,86776182
+550,550,550,18.7847858397,-90.6552777439,Anhinga anhinga,2021-07-07 12:59:25 ,Animalia,Chordata,Aves,Suliformes,Anhingidae,,Anhinga,Anhinga anhinga,Anhinga anhinga,inat,5063.0,86776248
+551,551,551,18.7694961124,-90.6237756492,Incilius valliceps,2021-02-26 10:16:00 ,Animalia,Chordata,Amphibia,Anura,Bufonidae,,Incilius,Incilius valliceps,Incilius valliceps,inat,65860.0,88787877
+552,552,552,18.7603184839,-90.6066339248,Drymobius margaritiferus,2021-03-11 12:31:00 ,Animalia,Chordata,Reptilia,Squamata,Colubridae,Colubrinae,Drymobius,Drymobius margaritiferus,Drymobius margaritiferus,inat,26835.0,88788007
+553,553,553,18.8077943152,-90.6526399591,Agaricomycetes,2020-06-03 16:26:00 ,Fungi,Basidiomycota,Agaricomycetes,,,,,Agaricomycetes,Agaricomycetes,inat,50814.0,88950210
+554,554,554,18.8123928744,-90.646648407,Ateles geoffroyi,2021-07-31 10:14:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,89785376
+555,555,555,18.8128143652,-90.6460580255,Campephilus guatemalensis,2021-07-31 10:41:00 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Campephilus,Campephilus guatemalensis,Campephilus guatemalensis,inat,18291.0,89785379
+556,556,556,18.8120901357,-90.6469908728,Alouatta pigra,2021-07-31 10:00:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,89785383
+557,557,557,18.75896167,-90.737495,Eira barbara,2021-08-06 22:47:53 ,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Guloninae,Eira,Eira barbara,Eira barbara,inat,41774.0,90686200
+558,558,558,18.7847858397,-90.6552777439,Magneuptychia libye,2021-08-08 17:57:53 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Satyrinae,Magneuptychia,Magneuptychia libye,Magneuptychia libye,inat,148720.0,91197067
+559,559,559,18.7847858397,-90.6552777439,Myiodynastes luteiventris,2021-08-13 00:03:13 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiodynastes,Myiodynastes luteiventris,Myiodynastes luteiventris,inat,16071.0,91197938
+560,560,560,18.7847858397,-90.6552777439,Thraupis episcopus,2021-08-12 23:50:21 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Thraupis,Thraupis episcopus,Thraupis episcopus,inat,10295.0,91198067
+561,561,561,18.7847858397,-90.6552777439,Ateles geoffroyi,2021-08-11 16:53:01 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,91198129
+562,562,562,18.7847858397,-90.6552777439,Chlorestes candida,2021-08-11 16:36:02 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Chlorestes,Chlorestes candida,Chlorestes candida,inat,1289632.0,91198192
+563,563,563,18.7847858397,-90.6552777439,Saltator grandis,2021-08-08 18:38:06 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Saltator,Saltator grandis,Saltator grandis,inat,1286901.0,91198353
+564,564,564,18.7847858397,-90.6552777439,Ctenosaura similis,2021-08-10 22:09:35 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,91198410
+565,565,565,18.7847858397,-90.6552777439,Columba livia,2021-08-08 18:31:23 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Columba,Columba livia,Columba livia,inat,3017.0,91198488
+566,566,566,18.7847858397,-90.6552777439,Quiscalus mexicanus,2021-08-08 18:26:39 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Quiscalus,Quiscalus mexicanus,Quiscalus mexicanus,inat,9607.0,91198514
+567,567,567,18.7847858397,-90.6552777439,Myiozetetes similis,2021-08-08 18:25:17 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiozetetes,Myiozetetes similis,Myiozetetes similis,inat,16842.0,91198557
+568,568,568,18.7847858397,-90.6552777439,Anolis sagrei,2021-08-08 17:55:27 ,Animalia,Chordata,Reptilia,Squamata,Anolidae,,Anolis,Anolis sagrei,Anolis sagrei,inat,116461.0,91198617
+569,569,569,18.7847858397,-90.6552777439,Zenaida asiatica,2021-08-08 18:16:33 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Zenaida,Zenaida asiatica,Zenaida asiatica,inat,3460.0,91198864
+570,570,570,18.7847858397,-90.6552777439,Turdus grayi,2021-08-08 17:52:30 ,Animalia,Chordata,Aves,Passeriformes,Turdidae,,Turdus,Turdus grayi,Turdus grayi,inat,12720.0,91198908
+571,571,571,18.8129689722,-90.6454939722,Ennominae,2021-10-17 16:32:48 ,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,Ennominae,,Ennominae,Ennominae,inat,123033.0,98658702
+572,572,572,18.810307,-90.6443969722,Agaricomycetes,2021-10-17 11:22:47 ,Fungi,Basidiomycota,Agaricomycetes,,,,,Agaricomycetes,Agaricomycetes,inat,50814.0,98658787
+573,573,573,18.810307,-90.6443969722,Lentaria,2021-10-17 16:22:35 ,Fungi,Basidiomycota,Agaricomycetes,Gomphales,Lentariaceae,,Lentaria,Lentaria,Lentaria,inat,118124.0,98658828
+574,574,574,18.810244,-90.6446109722,Daldinia childiae,2021-10-17 16:16:21 ,Fungi,Ascomycota,Sordariomycetes,Xylariales,Hypoxylaceae,,Daldinia,Daldinia childiae,Daldinia childiae,inat,350616.0,98658854
+575,575,575,18.8112449722,-90.645588,Bursera simaruba,2021-10-17 16:07:22 ,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Burseraceae,,Bursera,Bursera simaruba,Bursera simaruba,inat,130734.0,98658877
+576,576,576,18.6480073947,-90.6238227116,Zinnia elegans,2021-10-17 12:52:41 ,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Zinnia,Zinnia elegans,Zinnia elegans,inat,181901.0,98659141
+577,577,577,18.8121609722,-90.6450449722,Cantharellus,2021-10-17 16:29:47 ,Fungi,Basidiomycota,Agaricomycetes,Cantharellales,Hydnaceae,,Cantharellus,Cantharellus,Cantharellus,inat,47348.0,98663344
+578,578,578,18.8268153552,-90.6627648301,Mayaheros urophthalmus,2021-10-17 16:30:00 ,Animalia,Chordata,Actinopterygii,Cichliformes,Cichlidae,Cichlinae,Mayaheros,Mayaheros urophthalmus,Mayaheros urophthalmus,inat,623746.0,99631747
+579,579,579,18.8268153552,-90.6627648301,Nessaea aglaura aglaura,2021-10-17 17:10:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Biblidinae,Nessaea,Nessaea aglaura aglaura,Nessaea aglaura aglaura,inat,312327.0,99631748
+580,580,580,18.8268153552,-90.6627648301,Agave americana,2021-10-17 17:29:00 ,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,Agavoideae,Agave,Agave americana,Agave americana,inat,64103.0,99631756
+581,581,581,18.7847858397,-90.6552777439,Tyrannus forficatus,2021-12-02 23:59:05 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus forficatus,Tyrannus forficatus,inat,16783.0,103108598
+582,582,582,18.7847858397,-90.6552777439,Cyanocorax yncas,2021-12-15 23:31:19 ,Animalia,Chordata,Aves,Passeriformes,Corvidae,,Cyanocorax,Cyanocorax yncas,Cyanocorax yncas,inat,8474.0,103131434
+583,583,583,18.7847858397,-90.6552777439,Patagioenas speciosa,2021-12-15 07:02:00 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Patagioenas,Patagioenas speciosa,Patagioenas speciosa,inat,3082.0,103131464
+584,584,584,18.710564772,-90.6654743244,Ramphastos sulfuratus,2021-12-17 13:11:22 ,Animalia,Chordata,Aves,Piciformes,Ramphastidae,,Ramphastos,Ramphastos sulfuratus,Ramphastos sulfuratus,inat,18796.0,103198549
+585,585,585,18.7847858397,-90.6552777439,Sphyrapicus varius,2021-12-11 00:13:40 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Sphyrapicus,Sphyrapicus varius,Sphyrapicus varius,inat,18463.0,103198632
+586,586,586,18.7847858397,-90.6552777439,Chlorestes candida,2021-12-10 22:34:56 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Chlorestes,Chlorestes candida,Chlorestes candida,inat,1289632.0,103376948
+587,587,587,18.8113583333,-90.646325,Zamia prasina,2021-10-17 18:55:44 ,Plantae,Tracheophyta,Cycadopsida,Cycadales,Zamiaceae,,Zamia,Zamia prasina,Zamia prasina,inat,135600.0,104197123
+588,588,588,18.8110133333,-90.6458883333,Manilkara zapota,2021-10-17 18:59:31 ,Plantae,Tracheophyta,Magnoliopsida,Ericales,Sapotaceae,,Manilkara,Manilkara zapota,Manilkara zapota,inat,165144.0,104197230
+589,589,589,18.810175,-90.6444166667,Aphelandra scabra,2021-10-17 19:08:33 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Acanthaceae,Acanthoideae,Aphelandra,Aphelandra scabra,Aphelandra scabra,inat,291092.0,104197277
+590,590,590,18.8102533333,-90.64425,Daedaleopsis confragosa,2021-10-17 19:17:43 ,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,,Daedaleopsis,Daedaleopsis confragosa,Daedaleopsis confragosa,inat,124102.0,104197327
+591,591,591,18.7847858397,-90.6552777439,Archilochus colubris,2021-12-31 17:00:00 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Archilochus,Archilochus colubris,Archilochus colubris,inat,6432.0,104295555
+592,592,592,18.7847858397,-90.6552777439,Icterus galbula,2022-01-02 16:15:00 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus galbula,Icterus galbula,inat,9346.0,104295708
+593,593,593,18.7847858397,-90.6552777439,Spatula discors,2022-01-05 00:28:28 ,Animalia,Chordata,Aves,Anseriformes,Anatidae,,Spatula,Spatula discors,Spatula discors,inat,558433.0,104403862
+594,594,594,18.7847858397,-90.6552777439,Setophaga petechia,2022-01-04 23:27:52 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga petechia,Setophaga petechia,inat,145238.0,104403890
+595,595,595,18.7847858397,-90.6552777439,Amazilia yucatanensis,2022-01-02 23:52:26 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Amazilia,Amazilia yucatanensis,Amazilia yucatanensis,inat,5672.0,104403930
+596,596,596,18.7847858397,-90.6552777439,Rupornis magnirostris,2022-01-04 23:13:01 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Rupornis,Rupornis magnirostris,Rupornis magnirostris,inat,201041.0,104403976
+597,597,597,18.7847858397,-90.6552777439,Chordeiles acutipennis,2022-01-06 00:54:51 ,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,,Chordeiles,Chordeiles acutipennis,Chordeiles acutipennis,inat,19587.0,104446608
+598,598,598,18.7847858397,-90.6552777439,Arremonops chloronotus,2022-01-11 00:05:08 ,Animalia,Chordata,Aves,Passeriformes,Passerellidae,,Arremonops,Arremonops chloronotus,Arremonops chloronotus,inat,10176.0,104771044
+599,599,599,18.7847858397,-90.6552777439,Trogon melanocephalus,2022-01-10 23:41:20 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon melanocephalus,Trogon melanocephalus,inat,20737.0,104771123
+600,600,600,18.7847858397,-90.6552777439,Icterus mesomelas,2022-01-06 00:10:05 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus mesomelas,Icterus mesomelas,inat,9350.0,104771931
+601,601,601,18.7847858397,-90.6552777439,Spinus psaltria,2022-01-12 23:52:45 ,Animalia,Chordata,Aves,Passeriformes,Fringillidae,,Spinus,Spinus psaltria,Spinus psaltria,inat,145308.0,104927872
+602,602,602,18.8342323864,-90.46875,Piper auritum,2022-01-17 22:52:00 ,Plantae,Tracheophyta,Magnoliopsida,Piperales,Piperaceae,,Piper,Piper auritum,Piper auritum,inat,154826.0,105122999
+603,603,603,18.7847858397,-90.6552777439,Spizaetus melanoleucus,2022-01-14 23:17:18 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Spizaetus,Spizaetus melanoleucus,Spizaetus melanoleucus,inat,73433.0,105131453
+604,604,604,18.8122621198,-90.6466567889,Buteogallus anthracinus,2022-01-15 21:08:08 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteogallus,Buteogallus anthracinus,Buteogallus anthracinus,inat,5233.0,105132263
+605,605,605,18.7847858397,-90.6552777439,Dryocopus lineatus,2022-01-14 22:42:28 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Dryocopus,Dryocopus lineatus,Dryocopus lineatus,inat,17858.0,105132421
+606,606,606,18.8122621198,-90.6466567889,Momotus lessonii,2022-01-17 18:30:23 ,Animalia,Chordata,Aves,Coraciiformes,Momotidae,,Momotus,Momotus lessonii,Momotus lessonii,inat,509025.0,105213672
+607,607,607,18.8122621198,-90.6466567889,Ateles geoffroyi,2022-01-18 14:28:42 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,105213717
+608,608,608,18.8122621198,-90.6466567889,Mniotilta varia,2022-01-18 00:07:54 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Mniotilta,Mniotilta varia,Mniotilta varia,inat,10286.0,105213785
+609,609,609,18.8122621198,-90.6466567889,Setophaga ruticilla,2022-01-17 23:48:46 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga ruticilla,Setophaga ruticilla,inat,10247.0,105213870
+610,610,610,18.7847858397,-90.6552777439,Euphonia hirundinacea,2022-01-17 23:30:37 ,Animalia,Chordata,Aves,Passeriformes,Fringillidae,,Euphonia,Euphonia hirundinacea,Euphonia hirundinacea,inat,9287.0,105213916
+611,611,611,18.7847858397,-90.6552777439,Eumomota superciliosa,2022-01-17 23:13:29 ,Animalia,Chordata,Aves,Coraciiformes,Momotidae,,Eumomota,Eumomota superciliosa,Eumomota superciliosa,inat,2168.0,105213974
+612,612,612,18.7847858397,-90.6552777439,Piranga rubra,2022-01-18 23:12:11 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Piranga,Piranga rubra,Piranga rubra,inat,9915.0,105214033
+613,613,613,18.7847858397,-90.6552777439,Archilochus colubris,2022-01-18 23:08:55 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Archilochus,Archilochus colubris,Archilochus colubris,inat,6432.0,105214107
+614,614,614,18.7847858397,-90.6552777439,Piaya cayana,2022-01-19 23:04:06 ,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,,Piaya,Piaya cayana,Piaya cayana,inat,1758.0,105248039
+615,615,615,18.7847858397,-90.6552777439,Icterus chrysater,2022-01-19 23:55:01 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus chrysater,Icterus chrysater,inat,9351.0,105392521
+616,616,616,18.7847858397,-90.6552777439,Mimus gilvus,2022-01-27 22:46:36 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,105701714
+617,617,617,18.7847858397,-90.6552777439,Rostrhamus sociabilis,2022-01-27 23:58:33 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Rostrhamus,Rostrhamus sociabilis,Rostrhamus sociabilis,inat,5349.0,105701769
+618,618,618,18.7847858397,-90.6552777439,Eucometis penicillata,2022-01-26 23:34:13 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Eucometis,Eucometis penicillata,Eucometis penicillata,inat,10698.0,105701779
+619,619,619,18.7847858397,-90.6552777439,Rupornis magnirostris,2022-01-26 23:17:10 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Rupornis,Rupornis magnirostris,Rupornis magnirostris,inat,201041.0,105701810
+620,620,620,18.7847858397,-90.6552777439,Granatellus sallaei,2022-01-26 23:41:22 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Granatellus,Granatellus sallaei,Granatellus sallaei,inat,9626.0,105701862
+621,621,621,18.7847858397,-90.6552777439,Trogon caligatus,2022-01-25 00:40:19 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon caligatus,Trogon caligatus,inat,73523.0,105701927
+622,622,622,18.7847858397,-90.6552777439,Cyanocorax yucatanicus,2022-01-27 00:13:48 ,Animalia,Chordata,Aves,Passeriformes,Corvidae,,Cyanocorax,Cyanocorax yucatanicus,Cyanocorax yucatanicus,inat,8470.0,105702028
+623,623,623,18.8463194444,-90.6393805556,Malvaceae,2022-01-28 15:48:53 ,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,,,Malvaceae,Malvaceae,inat,48797.0,105722793
+624,624,624,18.7847858397,-90.6552777439,Pheucticus ludovicianus,2022-01-29 15:48:14 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Pheucticus,Pheucticus ludovicianus,Pheucticus ludovicianus,inat,10271.0,105891233
+625,625,625,18.7847858397,-90.6552777439,Rupornis magnirostris,2022-02-15 00:40:15 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Rupornis,Rupornis magnirostris,Rupornis magnirostris,inat,201041.0,106890844
+626,626,626,18.7847858397,-90.6552777439,Patagioenas flavirostris,2022-02-14 23:44:38 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Patagioenas,Patagioenas flavirostris,Patagioenas flavirostris,inat,3117.0,106890981
+627,627,627,18.8102932139,-90.6438664806,Metopium brownei,2022-02-11 18:55:34 ,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Anacardioideae,Metopium,Metopium brownei,Metopium brownei,inat,209947.0,107086049
+628,628,628,18.8101725639,-90.6438812333,Magnoliopsida,2022-02-11 18:53:34 ,Plantae,Tracheophyta,Magnoliopsida,,,,,Magnoliopsida,Magnoliopsida,inat,47124.0,107089137
+629,629,629,18.7845611079,-90.6543386355,Syntomeida epilais,2014-03-09 02:41:37 ,Animalia,Arthropoda,Insecta,Lepidoptera,Erebidae,Arctiinae,Syntomeida,Syntomeida epilais,Syntomeida epilais,inat,120875.0,107316591
+630,630,630,18.8128793951,-90.6466490775,Asclepias curassavica,2017-11-09 ,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Asclepiadoideae,Asclepias,Asclepias curassavica,Asclepias curassavica,inat,75602.0,108086355
+631,631,631,18.8120091791,-90.6467355788,Megasoma elephas,2017-11-10 06:35:00 ,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dynastinae,Megasoma,Megasoma elephas,Megasoma elephas,inat,122000.0,108086479
+632,632,632,18.8100430837,-90.6436634436,Malvaviscus arboreus,2017-11-12 09:25:00 ,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Malvoideae,Malvaviscus,Malvaviscus arboreus,Malvaviscus arboreus,inat,120942.0,108086703
+633,633,633,18.7847858397,-90.6552777439,Pachyramphus major,2022-03-21 14:13:05 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Pachyramphus,Pachyramphus major,Pachyramphus major,inat,8695.0,109578133
+634,634,634,18.7847858397,-90.6552777439,Melanoptila glabrirostris,2022-03-16 23:08:21 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Melanoptila,Melanoptila glabrirostris,Melanoptila glabrirostris,inat,15018.0,109578917
+635,635,635,18.7847858397,-90.6552777439,Claravis pretiosa,2022-03-17 00:03:18 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Claravis,Claravis pretiosa,Claravis pretiosa,inat,2998.0,109578976
+636,636,636,18.7847858397,-90.6552777439,Aramides albiventris,2022-03-16 23:15:44 ,Animalia,Chordata,Aves,Gruiformes,Rallidae,,Aramides,Aramides albiventris,Aramides albiventris,inat,513888.0,109579015
+637,637,637,18.7847858397,-90.6552777439,Piranga rubra,2022-03-15 13:56:45 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Piranga,Piranga rubra,Piranga rubra,inat,9915.0,109579058
+638,638,638,18.7847858397,-90.6552777439,Myiarchus tyrannulus,2022-03-14 20:10:06 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiarchus,Myiarchus tyrannulus,Myiarchus tyrannulus,inat,16016.0,109579151
+639,639,639,18.7847858397,-90.6552777439,Buteogallus urubitinga,2022-03-11 00:30:48 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteogallus,Buteogallus urubitinga,Buteogallus urubitinga,inat,5238.0,109579183
+640,640,640,18.7847858397,-90.6552777439,Geranospiza caerulescens,2022-03-10 14:06:23 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Geranospiza,Geranospiza caerulescens,Geranospiza caerulescens,inat,5411.0,109579234
+641,641,641,18.6511683941,-90.6166293133,Amazona autumnalis,2022-03-10 14:15:08 ,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,,Amazona,Amazona autumnalis,Amazona autumnalis,inat,18990.0,109579289
+642,642,642,18.7847858397,-90.6552777439,Ortalis vetula,2022-03-07 00:00:15 ,Animalia,Chordata,Aves,Galliformes,Cracidae,,Ortalis,Ortalis vetula,Ortalis vetula,inat,2090.0,109579334
+643,643,643,18.7847858397,-90.6552777439,Dryobates scalaris,2022-03-06 23:47:36 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Dryobates,Dryobates scalaris,Dryobates scalaris,inat,792986.0,109579454
+644,644,644,18.7847858397,-90.6552777439,Buteo brachyurus,2022-03-06 23:19:37 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteo,Buteo brachyurus,Buteo brachyurus,inat,5186.0,109579503
+645,645,645,18.7847858397,-90.6552777439,Cardinalis cardinalis,2022-03-06 22:50:20 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cardinalis,Cardinalis cardinalis,Cardinalis cardinalis,inat,9083.0,109579578
+646,646,646,18.7847858397,-90.6552777439,Passerina cyanea,2022-03-08 19:44:34 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina cyanea,Passerina cyanea,inat,10227.0,109579613
+647,647,647,18.7847858397,-90.6552777439,Glaucidium brasilianum,2022-03-26 15:08:40 ,Animalia,Chordata,Aves,Strigiformes,Strigidae,,Glaucidium,Glaucidium brasilianum,Glaucidium brasilianum,inat,19822.0,109580528
+648,648,648,18.7847858397,-90.6552777439,Danaus gilippus,2022-03-26 19:05:32 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danainae,Danaus,Danaus gilippus,Danaus gilippus,inat,51743.0,109580548
+649,649,649,18.7847858397,-90.6552777439,Sturnella magna,2022-03-24 14:10:46 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Sturnella,Sturnella magna,Sturnella magna,inat,9528.0,109580959
+650,650,650,18.7847858397,-90.6552777439,Geothlypis poliocephala,2022-03-26 14:19:53 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Geothlypis,Geothlypis poliocephala,Geothlypis poliocephala,inat,9715.0,109581026
+651,651,651,18.7847858397,-90.6552777439,Dumetella carolinensis,2022-03-26 15:02:50 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Dumetella,Dumetella carolinensis,Dumetella carolinensis,inat,14995.0,109581039
+652,652,652,18.7847858397,-90.6552777439,Onychorhynchus coronatus,2022-03-29 00:26:58 ,Animalia,Chordata,Aves,Passeriformes,Oxyruncidae,,Onychorhynchus,Onychorhynchus coronatus,Onychorhynchus coronatus,inat,16462.0,109827584
+653,653,653,18.7847858397,-90.6552777439,Elaenia flavogaster,2022-03-29 00:59:44 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Elaenia,Elaenia flavogaster,Elaenia flavogaster,inat,16714.0,109827629
+654,654,654,18.7910941972,-90.6734816773,Ramphastos sulfuratus,2022-03-31 14:11:34 ,Animalia,Chordata,Aves,Piciformes,Ramphastidae,,Ramphastos,Ramphastos sulfuratus,Ramphastos sulfuratus,inat,18796.0,110407717
+655,655,655,18.7847858397,-90.6552777439,Myiodynastes luteiventris,2022-03-31 13:39:53 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiodynastes,Myiodynastes luteiventris,Myiodynastes luteiventris,inat,16071.0,110407797
+656,656,656,18.7847858397,-90.6552777439,Progne subis,2022-03-31 13:51:31 ,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,Progne,Progne subis,Progne subis,inat,11867.0,110407899
+657,657,657,18.7847858397,-90.6552777439,Urocyon cinereoargenteus,2022-03-30 00:39:38 ,Animalia,Chordata,Mammalia,Carnivora,Canidae,,Urocyon,Urocyon cinereoargenteus,Urocyon cinereoargenteus,inat,42076.0,110407942
+658,658,658,18.7847858397,-90.6552777439,Geothlypis poliocephala,2022-03-29 13:50:18 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Geothlypis,Geothlypis poliocephala,Geothlypis poliocephala,inat,9715.0,110408023
+659,659,659,18.7847858397,-90.6552777439,Alouatta pigra,2022-04-01 00:40:11 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,110408142
+660,660,660,18.7847858397,-90.6552777439,Setophaga magnolia,2022-03-31 23:29:08 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga magnolia,Setophaga magnolia,inat,145235.0,110408311
+661,661,661,18.7847858397,-90.6552777439,Columbina minuta,2022-04-01 14:31:55 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Columbina,Columbina minuta,Columbina minuta,inat,3570.0,110408442
+662,662,662,18.7847858397,-90.6552777439,Tyrannus melancholicus,2022-03-29 14:09:30 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus melancholicus,Tyrannus melancholicus,inat,16787.0,110408509
+663,663,663,18.7847858397,-90.6552777439,Pteroglossus torquatus,2022-03-30 00:50:17 ,Animalia,Chordata,Aves,Piciformes,Ramphastidae,,Pteroglossus,Pteroglossus torquatus,Pteroglossus torquatus,inat,18584.0,110408587
+664,664,664,18.812232,-90.646112,Cichlidae,2022-03-11 23:22:56 ,Animalia,Chordata,Actinopterygii,Cichliformes,Cichlidae,,,Cichlidae,Cichlidae,inat,54196.0,110428932
+665,665,665,18.7915110054,-90.6476232312,Crotalus tzabcan,2021-10-12 15:32:28 ,Animalia,Chordata,Reptilia,Squamata,Viperidae,Crotalinae,Crotalus,Crotalus tzabcan,Crotalus tzabcan,inat,30696.0,110434284
+666,666,666,18.7745150653,-90.7257002477,Ananas comosus,2022-04-05 04:01:43 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Bromelioideae,Ananas,Ananas comosus,Ananas comosus,inat,122965.0,110460712
+667,667,667,18.7763729722,-90.7241649722,Ananas comosus,2022-04-05 17:06:20 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Bromelioideae,Ananas,Ananas comosus,Ananas comosus,inat,122965.0,110507108
+668,668,668,18.776308,-90.724349,Zea mays,2022-04-05 14:15:18 ,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Panicoideae,Zea,Zea mays,Zea mays,inat,48448.0,110508420
+669,669,669,18.7763269722,-90.7243519722,Cucumis sativus,2022-04-05 14:14:20 ,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,,Cucumis,Cucumis sativus,Cucumis sativus,inat,54919.0,110508553
+670,670,670,18.77626,-90.7243859722,Persea americana,2022-04-05 14:03:02 ,Plantae,Tracheophyta,Magnoliopsida,Laurales,Lauraceae,,Persea,Persea americana,Persea americana,inat,62831.0,110508724
+671,671,671,18.776329,-90.7245159722,Cucurbita pepo,2022-04-05 13:55:00 ,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,,Cucurbita,Cucurbita pepo,Cucurbita pepo,inat,76541.0,110508966
+672,672,672,18.7763519722,-90.7244979722,Mangifera indica,2022-04-05 13:55:26 ,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Anacardioideae,Mangifera,Mangifera indica,Mangifera indica,inat,48872.0,110524830
+673,673,673,18.7847858397,-90.6552777439,Pistia stratiotes,2021-11-01 09:54:00 ,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Aroideae,Pistia,Pistia stratiotes,Pistia stratiotes,inat,78589.0,110544887
+674,674,674,18.776342,-90.7250928,Polybia rejecta,2022-04-06 21:17:35 ,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Polistinae,Polybia,Polybia rejecta,Polybia rejecta,inat,266267.0,110631629
+675,675,675,18.7847858397,-90.6552777439,Hamadryas,2022-04-04 23:22:25 ,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Biblidinae,Hamadryas,Hamadryas,Hamadryas,inat,83228.0,110675716
+676,676,676,18.7764138889,-90.7250833333,Portulaca,2022-04-06 21:34:27 ,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Portulacaceae,,Portulaca,Portulaca,Portulaca,inat,58992.0,110782200
+677,677,677,18.7763194444,-90.7249972222,Tridax procumbens,2022-04-06 21:34:15 ,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Tridax,Tridax procumbens,Tridax procumbens,inat,169944.0,110782248
+678,678,678,18.7847858397,-90.6552777439,Vireo flavoviridis,2022-04-09 13:49:55 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,110875167
+679,679,679,18.7847858397,-90.6552777439,Habia fuscicauda,2022-04-09 14:23:20 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Habia,Habia fuscicauda,Habia fuscicauda,inat,9933.0,110875524
+680,680,680,18.7847858397,-90.6552777439,Mimus gilvus,2022-04-09 13:56:29 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,110875628
+681,681,681,18.7847858397,-90.6552777439,Tityra semifasciata,2022-04-09 13:21:25 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Tityra,Tityra semifasciata,Tityra semifasciata,inat,8834.0,110875669
+682,682,682,18.7847858397,-90.6552777439,Pachyramphus aglaiae,2022-04-09 12:52:04 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Pachyramphus,Pachyramphus aglaiae,Pachyramphus aglaiae,inat,8671.0,110875688
+683,683,683,18.7847858397,-90.6552777439,Cyanocompsa parellina,2022-04-08 23:38:42 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cyanocompsa,Cyanocompsa parellina,Cyanocompsa parellina,inat,9519.0,110875708
+684,684,684,18.7847858397,-90.6552777439,Setophaga virens,2022-04-08 23:27:10 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga virens,Setophaga virens,inat,145258.0,110875802
+685,685,685,18.7847858397,-90.6552777439,Leptotila verreauxi,2022-04-08 18:14:16 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Leptotila,Leptotila verreauxi,Leptotila verreauxi,inat,3280.0,110875879
+686,686,686,18.7847858397,-90.6552777439,Elaenia flavogaster,2022-04-08 18:09:08 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Elaenia,Elaenia flavogaster,Elaenia flavogaster,inat,16714.0,110875951
+687,687,687,18.7847858397,-90.6552777439,Gastropoda,2022-04-10 18:59:00 ,Animalia,Mollusca,Gastropoda,,,,,Gastropoda,Gastropoda,inat,47114.0,111034662
+688,688,688,18.7847858397,-90.6552777439,Synallaxis erythrothorax,2022-04-14 14:14:18 ,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnariinae,Synallaxis,Synallaxis erythrothorax,Synallaxis erythrothorax,inat,10944.0,111451016
+689,689,689,18.7847858397,-90.6552777439,Vireo flavoviridis,2022-04-14 14:02:47 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,111451290
+690,690,690,18.7847858397,-90.6552777439,Ortalis vetula,2022-04-14 13:01:13 ,Animalia,Chordata,Aves,Galliformes,Cracidae,,Ortalis,Ortalis vetula,Ortalis vetula,inat,2090.0,111451420
+691,691,691,18.7847858397,-90.6552777439,Icterus prosthemelas,2022-04-13 13:01:55 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus prosthemelas,Icterus prosthemelas,inat,72953.0,111451701
+692,692,692,18.7847858397,-90.6552777439,Legatus leucophaius,2022-04-13 12:36:03 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Legatus,Legatus leucophaius,Legatus leucophaius,inat,17312.0,111452075
+693,693,693,18.7847858397,-90.6552777439,Progne chalybea,2022-05-02 23:20:47 ,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,,Progne,Progne chalybea,Progne chalybea,inat,11872.0,115029893
+694,694,694,18.7847858397,-90.6552777439,Piranga olivacea,2022-05-02 22:39:32 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Piranga,Piranga olivacea,Piranga olivacea,inat,9921.0,115030181
+695,695,695,18.7847858397,-90.6552777439,Melanoptila glabrirostris,2022-04-30 17:46:37 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Melanoptila,Melanoptila glabrirostris,Melanoptila glabrirostris,inat,15018.0,115030875
+696,696,696,18.7847858397,-90.6552777439,Archilochus colubris,2022-04-30 14:51:13 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Archilochus,Archilochus colubris,Archilochus colubris,inat,6432.0,115031137
+697,697,697,18.7847858397,-90.6552777439,Contopus virens,2022-04-30 14:05:19 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Contopus,Contopus virens,Contopus virens,inat,16100.0,115031762
+698,698,698,18.7847858397,-90.6552777439,Polioptila caerulea,2022-04-30 13:52:07 ,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,,Polioptila,Polioptila caerulea,Polioptila caerulea,inat,7493.0,115032076
+699,699,699,18.7847858397,-90.6552777439,Vireo flavoviridis,2022-04-30 13:48:21 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,115032373
+700,700,700,18.7847858397,-90.6552777439,Empidonax minimus,2022-04-30 13:31:57 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Empidonax,Empidonax minimus,Empidonax minimus,inat,16602.0,115032569
+701,701,701,18.7847858397,-90.6552777439,Melanoptila glabrirostris,2022-04-30 13:26:37 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Melanoptila,Melanoptila glabrirostris,Melanoptila glabrirostris,inat,15018.0,115033037
+702,702,702,18.7847858397,-90.6552777439,Dives dives,2022-04-30 13:23:32 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Dives,Dives dives,Dives dives,inat,10001.0,115034429
+703,703,703,18.7847858397,-90.6552777439,Icterus gularis,2022-05-05 14:47:26 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus gularis,Icterus gularis,inat,9339.0,115674924
+704,704,704,18.7847858397,-90.6552777439,Pitangus sulphuratus,2022-05-04 23:07:05 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Pitangus,Pitangus sulphuratus,Pitangus sulphuratus,inat,16956.0,115675012
+705,705,705,18.7847858397,-90.6552777439,Anthracothorax prevostii,2022-05-04 22:55:43 ,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,,Anthracothorax,Anthracothorax prevostii,Anthracothorax prevostii,inat,5798.0,115675069
+706,706,706,18.7847858397,-90.6552777439,Pachyramphus aglaiae,2022-05-03 23:06:14 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Pachyramphus,Pachyramphus aglaiae,Pachyramphus aglaiae,inat,8671.0,115675155
+707,707,707,18.7847858397,-90.6552777439,Thamnophilus doliatus,2022-05-03 22:08:16 ,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,,Thamnophilus,Thamnophilus doliatus,Thamnophilus doliatus,inat,15764.0,115675258
+708,708,708,18.7847858397,-90.6552777439,Melanoptila glabrirostris,2022-04-30 13:26:37 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Melanoptila,Melanoptila glabrirostris,Melanoptila glabrirostris,inat,15018.0,115675356
+709,709,709,18.7847858397,-90.6552777439,Mimus gilvus,2022-04-30 13:18:41 ,Animalia,Chordata,Aves,Passeriformes,Mimidae,,Mimus,Mimus gilvus,Mimus gilvus,inat,14884.0,115675410
+710,710,710,18.7847858397,-90.6552777439,Geothlypis philadelphia,2022-05-12 21:37:46 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Geothlypis,Geothlypis philadelphia,Geothlypis philadelphia,inat,145224.0,116790942
+711,711,711,18.7847858397,-90.6552777439,Dryocopus lineatus,2022-05-12 12:29:39 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Dryocopus,Dryocopus lineatus,Dryocopus lineatus,inat,17858.0,116790982
+712,712,712,18.7847858397,-90.6552777439,Pachyramphus aglaiae,2022-05-12 12:27:07 ,Animalia,Chordata,Aves,Passeriformes,Tityridae,,Pachyramphus,Pachyramphus aglaiae,Pachyramphus aglaiae,inat,8671.0,116791034
+713,713,713,18.7847858397,-90.6552777439,Nyctidromus albicollis,2022-05-09 23:11:12 ,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,,Nyctidromus,Nyctidromus albicollis,Nyctidromus albicollis,inat,19627.0,116791112
+714,714,714,18.7764666667,-90.7251194444,Plantae,2022-04-06 21:15:51 ,Plantae,,,,,,,Plantae,Plantae,inat,47126.0,117068345
+715,715,715,18.7768638889,-90.7244944444,,2022-04-06 20:49:00 ,,,,,,,,,,inat,,117733183
+716,716,716,18.7765083333,-90.725,Poaceae,2022-04-06 21:10:09 ,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,,,Poaceae,Poaceae,inat,47434.0,117733225
+717,717,717,18.7847858397,-90.6552777439,Trachemys venusta venusta,2022-06-17 01:18:00 ,Animalia,Chordata,Reptilia,Testudines,Emydidae,Deirochelyinae,Trachemys,Trachemys venusta venusta,Trachemys venusta venusta,inat,116230.0,122101371
+718,718,718,18.783221712,-90.647635743,Boa imperator,2022-04-21 20:11:00 ,Animalia,Chordata,Reptilia,Squamata,Boidae,Boinae,Boa,Boa imperator,Boa imperator,inat,539399.0,125831440
+719,719,719,18.6743274342,-90.7033328712,Ctenosaura similis,2022-08-01 14:58:09 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,129017484
+720,720,720,18.7847858397,-90.6552777439,Myiodynastes luteiventris,2022-05-18 12:42:04 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiodynastes,Myiodynastes luteiventris,Myiodynastes luteiventris,inat,16071.0,129196442
+721,721,721,18.7847858397,-90.6552777439,Amblycercus holosericeus,2022-05-16 12:11:18 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Amblycercus,Amblycercus holosericeus,Amblycercus holosericeus,inat,10426.0,129196628
+722,722,722,18.7847858397,-90.6552777439,Momotus lessonii,2022-06-04 12:51:55 ,Animalia,Chordata,Aves,Coraciiformes,Momotidae,,Momotus,Momotus lessonii,Momotus lessonii,inat,509025.0,129197030
+723,723,723,18.7847858397,-90.6552777439,Vireo flavoviridis,2022-06-04 13:41:56 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,129197189
+724,724,724,18.7242711063,-90.6837438835,Ictinia plumbea,2022-08-02 15:03:00 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Ictinia,Ictinia plumbea,Ictinia plumbea,inat,5415.0,129210698
+725,725,725,18.7167606471,-90.6813726202,Basiliscus vittatus,2022-08-02 14:53:49 ,Animalia,Chordata,Reptilia,Squamata,Corytophanidae,,Basiliscus,Basiliscus vittatus,Basiliscus vittatus,inat,33118.0,129228493
+726,726,726,18.7785464081,-90.5076489158,Trogon melanocephalus,2022-08-03 19:36:00 ,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,,Trogon,Trogon melanocephalus,Trogon melanocephalus,inat,20737.0,129447595
+727,727,727,18.6864836057,-90.6788156824,Heteromys gaumeri,2022-08-06 02:33:00 ,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Heteromyinae,Heteromys,Heteromys gaumeri,Heteromys gaumeri,inat,44135.0,129760451
+728,728,728,18.6856527065,-90.7115586797,Campephilus guatemalensis,2022-08-07 01:59:00 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Campephilus,Campephilus guatemalensis,Campephilus guatemalensis,inat,18291.0,129997911
+729,729,729,18.6498740279,-90.7129319707,Sceloporus chrysostictus,2022-08-07 02:12:00 ,Animalia,Chordata,Reptilia,Squamata,Phrynosomatidae,Sceloporinae,Sceloporus,Sceloporus chrysostictus,Sceloporus chrysostictus,inat,73942.0,130000360
+730,730,730,18.6710168868,-90.7081254521,Incilius valliceps,2022-08-07 02:07:00 ,Animalia,Chordata,Amphibia,Anura,Bufonidae,,Incilius,Incilius valliceps,Incilius valliceps,inat,65860.0,130005430
+731,731,731,18.7946911987,-90.6252286211,Urocyon cinereoargenteus,2022-08-09 13:31:00 ,Animalia,Chordata,Mammalia,Carnivora,Canidae,,Urocyon,Urocyon cinereoargenteus,Urocyon cinereoargenteus,inat,42076.0,130189252
+732,732,732,18.7991724943,-90.6521405652,Dryocopus lineatus,2022-08-09 14:55:00 ,Animalia,Chordata,Aves,Piciformes,Picidae,,Dryocopus,Dryocopus lineatus,Dryocopus lineatus,inat,17858.0,130189345
+733,733,733,18.7887595435,-90.6473310292,Ctenosaura similis,2022-08-10 17:15:00 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,130316657
+734,734,734,18.8123133333,-90.6464383333,Ateles geoffroyi,2022-03-30 22:42:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,130425544
+735,735,735,18.6403537075,-90.6946622953,Clathrus crispus,2022-08-13 13:58:13 ,Fungi,Basidiomycota,Agaricomycetes,Phallales,Clathraceae,,Clathrus,Clathrus crispus,Clathrus crispus,inat,120175.0,130642380
+736,736,736,18.812815,-90.646197,Vireo flavoviridis,2022-08-14 16:22:00 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,130950467
+737,737,737,18.81268,-90.645162,Myiozetetes similis,2022-08-14 16:29:00 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Myiozetetes,Myiozetetes similis,Myiozetetes similis,inat,16842.0,130950468
+738,738,738,18.810017,-90.642473,Falco rufigularis,2022-08-14 16:47:00 ,Animalia,Chordata,Aves,Falconiformes,Falconidae,,Falco,Falco rufigularis,Falco rufigularis,inat,4664.0,130950472
+739,739,739,18.811738,-90.646254,Saccopteryx bilineata,2022-08-14 17:07:00 ,Animalia,Chordata,Mammalia,Chiroptera,Emballonuridae,Emballonurinae,Saccopteryx,Saccopteryx bilineata,Saccopteryx bilineata,inat,41337.0,130950474
+740,740,740,18.7762710593,-90.6581959434,Cyanocompsa parellina,2022-08-18 03:33:00 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cyanocompsa,Cyanocompsa parellina,Cyanocompsa parellina,inat,9519.0,131284296
+741,741,741,18.6789302825,-90.7374420164,Petrea volubilis,2021-01-18 19:03:51 ,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,,Petrea,Petrea volubilis,Petrea volubilis,inat,166546.0,134904773
+742,742,742,18.8143399006,-90.6476250663,Ctenosaura similis,2022-08-10 17:08:16 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Ctenosaura,Ctenosaura similis,Ctenosaura similis,inat,35303.0,135076174
+743,743,743,18.6522064707,-90.7169224945,Iguana iguana,2022-09-20 01:10:20 ,Animalia,Chordata,Reptilia,Squamata,Iguanidae,,Iguana,Iguana iguana,Iguana iguana,inat,35342.0,135735185
+744,744,744,18.8205598825,-90.5596087104,Phallus haitangensis,2022-06-22 15:47:00 ,Fungi,Basidiomycota,Agaricomycetes,Phallales,Phallaceae,,Phallus,Phallus haitangensis,Phallus haitangensis,inat,1045188.0,136110331
+745,745,745,18.7984581435,-90.6087393923,Arsenura armida,2022-07-08 16:49:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,Arsenurinae,Arsenura,Arsenura armida,Arsenura armida,inat,257159.0,136112557
+746,746,746,18.7981328837,-90.6087501215,Arsenura armida,2022-07-08 16:22:00 ,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,Arsenurinae,Arsenura,Arsenura armida,Arsenura armida,inat,257159.0,136112558
+747,747,747,18.7792191957,-90.5917975679,Tillandsia schiedeana,2021-06-08 ,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Tillandsioideae,Tillandsia,Tillandsia schiedeana,Tillandsia schiedeana,inat,281580.0,136440875
+748,748,748,18.7847858397,-90.6552777439,Tyrannus tyrannus,2022-09-06 12:57:19 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus tyrannus,Tyrannus tyrannus,inat,16782.0,137922585
+749,749,749,18.7847858397,-90.6552777439,Rupornis magnirostris,2022-09-06 22:49:41 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Rupornis,Rupornis magnirostris,Rupornis magnirostris,inat,201041.0,137922731
+750,750,750,18.7847858397,-90.6552777439,Tringa solitaria,2022-09-06 22:44:33 ,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,,Tringa,Tringa solitaria,Tringa solitaria,inat,3875.0,137922924
+751,751,751,18.7847858397,-90.6552777439,Setophaga petechia,2022-09-05 22:41:50 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga petechia,Setophaga petechia,inat,145238.0,137923112
+752,752,752,18.7847858397,-90.6552777439,Tyrannus melancholicus,2022-08-28 20:51:15 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus melancholicus,Tyrannus melancholicus,inat,16787.0,137923203
+753,753,753,18.7847858397,-90.6552777439,Icterus spurius,2022-08-26 14:07:18 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus spurius,Icterus spurius,inat,9325.0,137923823
+754,754,754,18.7847858397,-90.6552777439,Sporophila morelleti,2022-08-26 14:00:54 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Sporophila,Sporophila morelleti,Sporophila morelleti,inat,827413.0,137925916
+755,755,755,18.7847858397,-90.6552777439,Dasypus novemcinctus,2022-08-22 15:34:30 ,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,,Dasypus,Dasypus novemcinctus,Dasypus novemcinctus,inat,47075.0,137925987
+756,756,756,18.7847858397,-90.6552777439,Eucometis penicillata,2022-08-09 18:50:29 ,Animalia,Chordata,Aves,Passeriformes,Thraupidae,,Eucometis,Eucometis penicillata,Eucometis penicillata,inat,10698.0,137926516
+757,757,757,18.722895833,-90.644001402,Rivina humilis,2022-10-08 14:39:22 ,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Petiveriaceae,,Rivina,Rivina humilis,Rivina humilis,inat,133291.0,138008435
+758,758,758,18.6604895309,-90.6867430732,Hylocichla mustelina,2022-10-14 10:43:35 ,Animalia,Chordata,Aves,Passeriformes,Turdidae,,Hylocichla,Hylocichla mustelina,Hylocichla mustelina,inat,13270.0,138702889
+759,759,759,18.6544280971,-90.7053788701,Dendrocincla anabatina,2022-10-13 14:09:00 ,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptinae,Dendrocincla,Dendrocincla anabatina,Dendrocincla anabatina,inat,10876.0,139174831
+760,760,760,18.7847858397,-90.6552777439,Cardinalis cardinalis,2022-07-15 21:47:46 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Cardinalis,Cardinalis cardinalis,Cardinalis cardinalis,inat,9083.0,139299717
+761,761,761,18.7847858397,-90.6552777439,Spinus psaltria,2022-07-14 22:15:43 ,Animalia,Chordata,Aves,Passeriformes,Fringillidae,,Spinus,Spinus psaltria,Spinus psaltria,inat,145308.0,139299903
+762,762,762,18.7847858397,-90.6552777439,Geothlypis poliocephala,2022-07-15 21:34:34 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Geothlypis,Geothlypis poliocephala,Geothlypis poliocephala,inat,9715.0,139300227
+763,763,763,18.7847858397,-90.6552777439,Icterus cucullatus,2022-06-22 23:08:32 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Icterus,Icterus cucullatus,Icterus cucullatus,inat,9319.0,139300376
+764,764,764,18.7847858397,-90.6552777439,Dives dives,2022-06-23 22:18:15 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Dives,Dives dives,Dives dives,inat,10001.0,139300452
+765,765,765,18.7847858397,-90.6552777439,Vireo flavoviridis,2022-07-18 15:11:24 ,Animalia,Chordata,Aves,Passeriformes,Vireonidae,,Vireo,Vireo flavoviridis,Vireo flavoviridis,inat,17367.0,139300601
+766,766,766,18.7847858397,-90.6552777439,Molothrus aeneus,2022-07-18 15:11:24 ,Animalia,Chordata,Aves,Passeriformes,Icteridae,,Molothrus,Molothrus aeneus,Molothrus aeneus,inat,10369.0,139300822
+767,767,767,18.7847858397,-90.6552777439,Dendrocygna autumnalis,2022-07-16 19:01:30 ,Animalia,Chordata,Aves,Anseriformes,Anatidae,,Dendrocygna,Dendrocygna autumnalis,Dendrocygna autumnalis,inat,6893.0,139301013
+768,768,768,18.7713952084,-90.5316815086,Buteogallus urubitinga,2022-09-26 19:45:00 ,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,,Buteogallus,Buteogallus urubitinga,Buteogallus urubitinga,inat,5238.0,139656050
+769,769,769,18.7777337965,-90.5845531546,Alouatta pigra,2022-10-21 17:23:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,139986256
+770,770,770,18.7847858397,-90.6552777439,Contopus bogotensis,2022-11-01 14:22:16 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Contopus,Contopus bogotensis,Contopus bogotensis,inat,1441511.0,140837326
+771,771,771,18.7847858397,-90.6552777439,Dendrocincla homochroa,2022-11-01 14:49:41 ,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptinae,Dendrocincla,Dendrocincla homochroa,Dendrocincla homochroa,inat,10871.0,140837477
+772,772,772,18.7847858397,-90.6552777439,Tyrannus forficatus,2022-11-16 14:17:09 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Tyrannus,Tyrannus forficatus,Tyrannus forficatus,inat,16783.0,142158055
+773,773,773,18.7847858397,-90.6552777439,Empidonax minimus,2022-11-16 14:10:49 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Empidonax,Empidonax minimus,Empidonax minimus,inat,16602.0,142158112
+774,774,774,18.7847858397,-90.6552777439,Mniotilta varia,2022-11-16 13:57:50 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Mniotilta,Mniotilta varia,Mniotilta varia,inat,10286.0,142158139
+775,775,775,18.7847858397,-90.6552777439,Columbina minuta,2022-11-16 13:50:01 ,Animalia,Chordata,Aves,Columbiformes,Columbidae,,Columbina,Columbina minuta,Columbina minuta,inat,3570.0,142158227
+776,776,776,18.7847858397,-90.6552777439,Setophaga americana,2022-11-10 14:27:52 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga americana,Setophaga americana,inat,145233.0,142158933
+777,777,777,18.7847858397,-90.6552777439,Setophaga virens,2022-11-10 14:22:19 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Setophaga,Setophaga virens,Setophaga virens,inat,145258.0,142158987
+778,778,778,18.7847858397,-90.6552777439,Contopus bogotensis bogotensis,2022-11-10 14:08:34 ,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,,Contopus,Contopus bogotensis bogotensis,Contopus bogotensis bogotensis,inat,1441639.0,142159035
+779,779,779,18.7847858397,-90.6552777439,Passerina cyanea,2022-11-09 14:30:12 ,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,,Passerina,Passerina cyanea,Passerina cyanea,inat,10227.0,142159100
+780,780,780,18.6683530687,-90.7381908596,Croton arboreus,2022-12-12 19:31:23 ,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Crotonoideae,Croton,Croton arboreus,Croton arboreus,inat,282247.0,144288121
+781,781,781,18.7916713938,-90.6074187541,Ateles geoffroyi,2022-12-28 20:53:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Atelinae,Ateles,Ateles geoffroyi,Ateles geoffroyi,inat,43411.0,145996763
+782,782,782,18.7804216089,-90.6521261483,Centurio senex,2020-12-16 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Centurio,Centurio senex,Centurio senex,inat,41017.0,148134764
+783,783,783,18.7847217213,-90.6552777439,Micronycteris microtis mexicana,2020-12-16 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Micronycterinae,Micronycteris,Micronycteris microtis mexicana,Micronycteris microtis mexicana,inat,198008.0,148135581
+784,784,784,18.7839427765,-90.6513419375,Desmodus rotundus,2020-11-25 01:44:28 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodontinae,Desmodus,Desmodus rotundus,Desmodus rotundus,inat,41168.0,148162843
+785,785,785,18.7847217213,-90.6552777439,Sturnira parvidens,2020-11-25 08:43:57 ,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Stenodermatinae,Sturnira,Sturnira parvidens,Sturnira parvidens,inat,1067750.0,148162897
+786,786,786,18.6535259409,-90.7068732843,Alouatta pigra,2023-02-13 19:58:00 ,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouattinae,Alouatta,Alouatta pigra,Alouatta pigra,inat,43439.0,150170309
+787,787,787,18.8060075992,-90.7448049339,Geothlypis trichas,2023-03-04 19:56:00 ,Animalia,Chordata,Aves,Passeriformes,Parulidae,,Geothlypis,Geothlypis trichas,Geothlypis trichas,inat,9721.0,150756575

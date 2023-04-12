@@ -1,0 +1,15 @@
+pandas>=0.23.4
+
+pendulum>=2.1.2
+
+pyarrow>=9.0.0
+
+python-dotenv>=0.21.0
+pydantic>=1.8.2
+pymongo>=4.3.3
+
+tqdm>=4.64.0
+utm>=0.7.0
+
+geopandas>=0.12.2
+GDAL>=3.6.2

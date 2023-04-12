@@ -1,0 +1,36 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools>=59.0"]
+
+[project]
+authors = [
+  {name = "Ramón Rivera", email = "ramon.rivera@biometrio.earth"},
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+description = "Resulting data model and shared utils for multiple projects"
+license = {file = "LICENSE"}
+name = "datutl"
+readme = "README.md"
+requires-python = ">=3.7"
+version = "0.0.1"
+
+dependencies = [
+  "pandas>=0.23.4",
+  "pendulum>=2.1.2",
+  "pyarrow>=9.0.0",
+  "python-dotenv>=0.21.0",
+  "pydantic>=1.8.2",
+  "pymongo>=4.3.3",
+  "tqdm>=4.64.0",
+  "geopandas>=0.12.2",
+  "GDAL>=3.6.2",
+  "utm>=0.7.0"
+]
+
+[project.urls]
+"Bug Tracker" = "https://github.com/thecopy-and-thepaste/datutl/issues"
+"Homepage" = "https://github.com/thecopy-and-thepaste/datutl"
