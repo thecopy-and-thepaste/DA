@@ -16,7 +16,7 @@ license = {file = "LICENSE"}
 name = "datutl"
 readme = "README.md"
 requires-python = ">=3.7"
-version = "0.0.2"
+version = "0.0.3"
 
 dependencies = [
   "pandas>=0.23.4",
