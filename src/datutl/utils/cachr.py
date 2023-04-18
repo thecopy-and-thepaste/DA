@@ -9,7 +9,7 @@ from threading import Lock
 from datetime import datetime
 
 from pydantic import BaseModel
-from models.basic import BaseBuilder
+from datutl.models.basic import BaseBuilder
 
 from dotenv import load_dotenv
 
