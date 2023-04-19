@@ -22,6 +22,7 @@ from datutl.utils.log import get_logger
 log = get_logger(__name__)
 
 NUM_PROCESSES = multiprocessing.cpu_count() - 2
+NUM_PROCESSES = 1 if NUM_PROCESSES < 1 else NUM_PROCESSES
 
 LOCK = Lock()
 
