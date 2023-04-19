@@ -13,7 +13,7 @@ classifiers = [
 ]
 description = "Resulting data model and shared utils for multiple projects"
 license = {file = "LICENSE"}
-name = "datutl"
+name = "da"
 readme = "README.md"
 requires-python = ">=3.7"
 version = "0.0.5"
@@ -30,5 +30,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Bug Tracker" = "https://github.com/thecopy-and-thepaste/datutl/issues"
-"Homepage" = "https://github.com/thecopy-and-thepaste/datutl"
+"Bug Tracker" = "https://github.com/thecopy-and-thepaste/da/issues"
+"Homepage" = "https://github.com/thecopy-and-thepaste/da"

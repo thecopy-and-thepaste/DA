@@ -1,0 +1,20 @@
+src/.collections/**/*
+src/config/**/*
+src/results/**/*
+
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# aux
+.env
+.collections/
+config/
+*.csv
+results/
+.ipynb_checkpoints
+
+# dist
+dist/
+env/

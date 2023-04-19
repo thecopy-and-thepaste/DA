@@ -17,7 +17,7 @@ from tqdm import tqdm
 from typing import Callable, List
 from concurrent.futures import ThreadPoolExecutor
 
-from datutl.utils.log import get_logger
+from da.utils.log import get_logger
 
 log = get_logger(__name__)
 

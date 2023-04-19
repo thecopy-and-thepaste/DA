@@ -10,7 +10,7 @@ from uuid import uuid4
 from pydantic import BaseModel
 from pydantic.class_validators import root_validator
 
-from datutl.utils.log import get_logger
+from da.utils.log import get_logger
 
 log = get_logger(__name__)
 

@@ -8,11 +8,11 @@ import traceback
 
 import pandas as pd
 
-from datutl.models.occurrence import EventBuilder as EB, OccurrenceBuilder as OB
-from datutl.models.taxon import TaxonBuilder as TB
+from da.models.occurrence import EventBuilder as EB, OccurrenceBuilder as OB
+from da.models.taxon import TaxonBuilder as TB
 
 from pathlib import Path
-from datutl.utils.log import get_logger
+from da.utils.log import get_logger
 
 log = get_logger(__name__)
 
@@ -20,6 +20,7 @@ log = get_logger(__name__)
 def sample_conversion(sample_file: Path):
     try:
         df = pd.read_csv(sample_file)
+
 
         # VerbatimID is mandatory
         df = df[~df.verbatim_id.isnull()]
@@ -43,7 +44,7 @@ def sample_conversion(sample_file: Path):
                 'occurrenceID': int(row.occurrence_id),
                 'event': event,
                 'verbatimID': int(row.verbatim_id),
-                'verbatimSourceID': row.verbatim_source
+                'verbatimSource': row.verbatim_source
             }
 
             occurrence = OB.transform(tmp_occurrence)
@@ -104,6 +105,9 @@ if __name__ == '__main__':
 
     occurrences = [*map(lambda x: x.dict(), occurrences)]
     taxa = [*map(lambda x: x.dict(), taxa)]
+
+    # RUN sample vía docker
+    # docker run -it --rm -v /PATH/TO/HOST:/home/sources -v /PATH/TO/HOST:/home/results da python examples -sf /home/sources/file_name.csv -dp /home/results
 
     pd.DataFrame(occurrences).to_csv(csv_path / "occurrences.csv")
     pd.DataFrame(taxa).to_csv(csv_path / "taxa.csv")
