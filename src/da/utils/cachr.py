@@ -40,15 +40,21 @@ class CachrModelBuilder(BaseBuilder):
 
 
 class Cachr:
+    _shared_borg_state = {}
 
     def __init__(self, key_collection: str) -> None:
         CACHR_CONNECTION = os.environ.get("CACHR_DB_CONNECTION")
-        client = pymongo.MongoClient(CACHR_CONNECTION)
+        self.client = pymongo.MongoClient(CACHR_CONNECTION)
         self.__collection_name = key_collection
 
-        self.__db = client["bed_cachr"]
+        self.__db = self.client["bed_cachr"]
         self.cachr_collection = self.__db[key_collection]
 
+    def __new__(cls, *args, **kwargs):
+        obj = super(Cachr, cls).__new__(cls)
+        obj.__dict__ = cls._shared_borg_state
+        return obj
+    
     def cach(self, ep: str, data: dict):
         try:
             doc = CachrModelBuilder.transform({
@@ -65,7 +71,7 @@ class Cachr:
                 )
 
         except Exception:
-            log.error(traceback.print_exc())
+            log.exception(traceback.print_exc())
             raise
 
     def is_cachd(self, ep: str):
@@ -82,5 +88,5 @@ class Cachr:
                 raise Exception(f"More than one document the endopint {ep}")
 
         except Exception:
-            log.error(traceback.print_exc())
+            log.exception(traceback.print_exc())
             raise

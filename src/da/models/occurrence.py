@@ -41,7 +41,7 @@ class EventBuilder(BB):
 
                 return values
             except Exception:
-                log.error(traceback.print_exc())
+                log.exception(traceback.print_exc())
                 raise
 
         @validator('eventDate', pre=True, always=True)
@@ -60,8 +60,7 @@ class EventBuilder(BB):
 
                 return value
             except Exception:
-                log.error(traceback.print_exc())
-                breakpoint()
+                log.exception(traceback.print_exc())
                 raise
 
         def dict(self):
@@ -77,7 +76,7 @@ class EventBuilder(BB):
                 del tmp['id']
                 return tmp
             except Exception:
-                log.error(traceback.print_exc())
+                log.exception(traceback.print_exc())
                 raise
 
     @classmethod
@@ -109,7 +108,7 @@ class OccurrenceBuilder(BB):
 
                 return tmp
             except Exception:
-                log.error(traceback.print_exc())
+                log.exception(traceback.print_exc())
                 raise
 
     @classmethod

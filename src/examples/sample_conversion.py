@@ -72,7 +72,7 @@ def sample_conversion(sample_file: Path):
         return occurrences, taxa
 
     except Exception:
-        log.error(traceback.print_exc())
+        log.exception(traceback.print_exc())
         raise
 
 

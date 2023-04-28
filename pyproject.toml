@@ -16,7 +16,7 @@ license = {file = "LICENSE"}
 name = "da"
 readme = "README.md"
 requires-python = ">=3.7"
-version = "0.0.5"
+version = "0.0.6"
 
 dependencies = [
   "pandas>=0.23.4",
