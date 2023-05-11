@@ -7,14 +7,19 @@ import platform
 from dotenv import load_dotenv
 load_dotenv()
 
-LOG_NAME = os.environ.get("LOG_NAME")
+
 
 # Verify if system is macOS
 foldername = '/tmp' if platform.system() == 'Darwin' else tempfile.gettempdir()
 foldername = os.path.join(foldername, 'logs')
 if not os.path.exists(foldername):
     os.makedirs(foldername)
-FILENAME = "pORS.log"
+
+def_log_name = __file__.split("/")[-3:-1]
+def_log_name = f'{"_".join(def_log_name)}_pkcg'
+
+LOG_NAME = os.environ.get("LOG_NAME", def_log_name)
+FILENAME = f"{LOG_NAME}.log"
 PATH = os.path.join(foldername, FILENAME)
 FORMAT = "%(asctime)s [%(name)-12s] [%(levelname)-5.5s]  %(message)s"
 DEFAULT_LEVEL = logging.INFO

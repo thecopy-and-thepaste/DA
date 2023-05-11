@@ -16,14 +16,11 @@ from threading import Lock
 from tqdm import tqdm
 from typing import Callable, List
 from concurrent.futures import ThreadPoolExecutor
+from da.utils.config import Config
 
 from da.utils.log import get_logger
 
 log = get_logger(__name__)
-
-NUM_PROCESSES = multiprocessing.cpu_count() - 2
-NUM_PROCESSES = 1 if NUM_PROCESSES < 1 else NUM_PROCESSES
-NUM_BATCHES = NUM_PROCESSES
 
 LOCK = Lock()
 
@@ -62,7 +59,8 @@ def barified(func: Callable,
         else:
             total = len(data)
 
-        max_workers = kwargs.get('max_workers', NUM_PROCESSES)
+        
+        max_workers = Config().NUM_WORKERS
         hide_bar = kwargs.get('hide_bar', False)
         processes_results = []
 
@@ -85,23 +83,32 @@ def batchify(func: Callable,
              *args,
              **kwargs) -> List:
     try:
-        if kwargs.get('num_batches') is None:
-            num_batches = NUM_BATCHES
-        
-        batch_size = int(len(data) / num_batches) + 1
-        batch_ixs = range(0, len(data), batch_size)
+        num_batches = kwargs.get('num_batches')
+        batch_size = kwargs.get('batch_size')
 
+        if num_batches is None:
+            num_batches = Config().NUM_BATCHES
+        
+        if batch_size is None:
+            batch_size = int(len(data) / num_batches) + 1
+
+        batch_ixs = range(0, len(data), batch_size)
         batch_ixs = [*map(lambda x: (x, x + batch_size), batch_ixs)]
+
+        kwargs['max_workers'] = Config().NUM_WORKERS
 
         tmp = barified(func, 
                        batch_ixs,
                        data,
                        *args,
-                       *kwargs)
+                       **kwargs)
         
-        res = [x for xx in tmp for x in xx]
 
-        return res
+        if tmp is not None and isinstance(tmp, list):
+            tmp = filter(lambda x: x is not None, tmp)
+            res = [x for xx in tmp for x in xx]
+
+            return res
     except Exception:
         log.exception(traceback.print_exc())
         raise
