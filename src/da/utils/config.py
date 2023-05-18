@@ -10,7 +10,7 @@ class Config(object):
     _shared_borg_state = {}
    
     def __new__(cls, *args, **kwargs):
-        obj = super(Config, cls).__new__(cls, *args, **kwargs)
+        obj = super(Config, cls).__new__(cls)
         obj.__dict__ = cls._shared_borg_state
         return obj
 
