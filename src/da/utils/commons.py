@@ -58,7 +58,7 @@ def barified(func: Callable,
         else:
             total = len(data)
 
-        tmp = v
+        tmp = kwargs.get('max_workers')
         max_workers = Config().NUM_WORKERS
 
         if tmp:
