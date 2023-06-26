@@ -20,7 +20,16 @@ from da.utils.log import get_logger
 log = get_logger(__name__)
 
 class EventBuilder(BB):
+    """Defines the interface to create the Event Model
+    """
     class Model(IDiedModel):
+        """The common model of the Event 
+
+        Parameters
+        ----------
+        IDiedModel : IDiedModel
+            If the ID is not provided. IDied will create one unique
+        """
         latitude: float
         longitude: float
         eventType: str = "Catalog"
@@ -34,6 +43,19 @@ class EventBuilder(BB):
     
         @root_validator(pre=True)
         def create_missing_values(cls, values: dict) -> dict:
+            """Creates the missing coordinates Point using
+            longitude and laitutde
+
+            Parameters
+            ----------
+            values : dict
+                Values of the model
+
+            Returns
+            -------
+            dict
+                Verified data
+            """
             try:
                 coords = Point(float(values['longitude']),
                                float(values['latitude']))
@@ -45,7 +67,19 @@ class EventBuilder(BB):
                 raise
 
         @validator('eventDate', pre=True, always=True)
-        def create_event_date(cls, value):
+        def create_event_date(cls, value) -> datetime:
+            """Verifies the eventDate. If it cames from string parses only to date
+
+            Parameters
+            ----------
+            value : str | data
+                Value to verify
+
+            Returns
+            -------
+            datetime
+                Date formatted
+            """
             try:
                 if value is None:
                     return
@@ -63,7 +97,14 @@ class EventBuilder(BB):
                 log.exception(traceback.print_exc())
                 raise
 
-        def dict(self):
+        def dict(self) -> dict:
+            """Returns the serializable version of the data
+
+            Returns
+            -------
+            dict
+                Serializable version
+            """
             try:
                 tmp = deepcopy(self.__dict__)
                 coords = mapping(tmp['coordinates'])['coordinates']
@@ -80,7 +121,19 @@ class EventBuilder(BB):
                 raise
 
     @classmethod
-    def transform(cls, data: dict):
+    def transform(cls, data: dict) -> Model:
+        """Creates the Model
+
+        Parameters
+        ----------
+        data : dict
+            Data to create the Event model
+
+        Returns
+        -------
+        Model
+            Typed Occurrence
+        """
         try:
             data_typed = EventBuilder.Model(**data)
 
@@ -89,7 +142,16 @@ class EventBuilder(BB):
             raise
 
 class OccurrenceBuilder(BB):
+    """Defines the interface to create the Occurrence Model
+    """
     class Model(IDiedModel):
+        """The common model of the Occurrence 
+
+        Parameters
+        ----------
+        IDiedModel : IDiedModel
+            If the ID is not provided. IDied will create one unique
+        """
         occurrenceID: str
         event: EventBuilder.Model
         verbatimID: Optional[Union[str, int]]
@@ -98,7 +160,15 @@ class OccurrenceBuilder(BB):
         class Config:
             arbitrary_types_allowed = True
         
-        def dict(self):
+        def dict(self) -> dict:
+            """This returns the plain version of the Occurrence with
+            the data of the Model
+
+            Returns
+            -------
+            dict
+                Serializable version
+            """
             try:
                 tmp = deepcopy(self.__dict__)
                 event_dict = self.event.dict()
@@ -112,7 +182,19 @@ class OccurrenceBuilder(BB):
                 raise
 
     @classmethod
-    def transform(cls, data: dict):
+    def transform(cls, data: dict) -> Model:
+        """Creates the Model
+
+        Parameters
+        ----------
+        data : dict
+            Data to create the model
+
+        Returns
+        -------
+        Model
+            Typed Occurrence
+        """
         try:
             data_typed = OccurrenceBuilder.Model(**data)
 

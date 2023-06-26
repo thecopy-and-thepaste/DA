@@ -12,7 +12,16 @@ log = get_logger(__name__)
 
 
 class BaseTaxonBuilder(BB):
+    """Defines the interface to create the BaseTaxon Model
+    """
     class Model(IDiedModel):
+        """The BaseTaxonModel provides the general information of the Taxon
+
+        Parameters
+        ----------
+        IDiedModel : IDiedModel
+            If the ID is not provided. IDied will create one unique
+        """
         kingdom: Optional[str]
         phylum: Optional[str]
         class_taxon: Optional[str]
@@ -40,8 +49,12 @@ class BaseTaxonBuilder(BB):
 
 
 class TaxonBuilder(BB):
+    """Defines the interface to create the TaxonModel
+    """
 
     class Model(BaseTaxonBuilder.Model):
+        """The TaxonModel also contains the original ID and the source it provides
+        """
         verbatimID: Optional[Union[str, int]]
         verbatimSource: Optional[str]
 

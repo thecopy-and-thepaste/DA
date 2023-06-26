@@ -30,8 +30,7 @@ def barified(func: Callable,
              data: collections,
              *args,
              **kwargs) -> List:
-    """
-    Ordered version to parallelize tasks using PoolExecutor and provide a bar
+    """Ordered version to parallelize tasks using PoolExecutor and provide a bar
     for estimated time of completion.
 
     The data is splitted in items and send to a function with signature
@@ -47,8 +46,8 @@ def barified(func: Callable,
 
     Returns
     -------
-    [List]
-        [List of the results of func function]
+    List
+        List of the results of func function
     """
     try:
         total = 0
@@ -89,6 +88,25 @@ def batchify(func: Callable,
              data: collections,
              *args,
              **kwargs) -> List:
+    """Parallelizes a function on bathces and provide a bar
+    for estimated time of completion.
+
+    The data is splitted in batches and send to a function with signature
+    func((ixs[start], ixs[end]), data_to_batch, *args, **kwargs).
+    _summary_
+
+    Parameters
+    ----------
+    func : Callable
+        Function to call on batches
+    data : collections
+        Data to batchify
+
+    Returns
+    -------
+    List
+        List of batches
+    """
     try:
         num_batches = kwargs.get('num_batches')
         batch_size = kwargs.get('batch_size')
@@ -130,6 +148,13 @@ def batchify(func: Callable,
         raise
 
 def timed(func, *args, **kwargs):
+    """Decorator to measure the excuyion time of a process
+
+    Parameters
+    ----------
+    func : Callable
+        Function to execute
+    """
     def wrapper(*aegs, **kwargs):
         start_time = time.time()
 

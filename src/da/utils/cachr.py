@@ -25,6 +25,8 @@ LOCK = Lock()
 
 class CachrModelBuilder(BaseBuilder):
     class Model(BaseModel):
+        """Common model of the document to Cach
+        """
         document_id: str
         updated_at: datetime
         document: dict
@@ -40,6 +42,8 @@ class CachrModelBuilder(BaseBuilder):
 
 
 class Cachr:
+    """Provides the methods to store and retrieve information from the MongoDB <<Cachr>>
+    """
     _shared_borg_state = {}
 
     def __init__(self, key_collection: str) -> None:
@@ -51,11 +55,22 @@ class Cachr:
         self.cachr_collection = self.__db[key_collection]
 
     def __new__(cls, *args, **kwargs):
+        """We do this to create a singleton
+        """
         obj = super(Cachr, cls).__new__(cls)
         obj.__dict__ = cls._shared_borg_state
         return obj
     
     def cach(self, ep: str, data: dict):
+        """
+
+        Parameters
+        ----------
+        ep : str
+            Endpoint to cach
+        data : dict
+            Data to store if not found
+        """
         try:
             doc = CachrModelBuilder.transform({
                 "document_id": ep,
@@ -74,7 +89,24 @@ class Cachr:
             log.exception(traceback.print_exc())
             raise
 
-    def is_cachd(self, ep: str):
+    def is_cachd(self, ep: str) -> dict:
+        """Verified if the endpoint is already cachd
+
+        Parameters
+        ----------
+        ep : str
+            Endpoint to verify if exists
+
+        Returns
+        -------
+        dict
+            Document cached
+
+        Raises
+        ------
+        Exception
+            If multiple document wetre found with the same ID
+        """
         try:
             docs = self.cachr_collection.find({
                 "document_id": ep
