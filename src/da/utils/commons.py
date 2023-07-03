@@ -5,7 +5,7 @@
 
 import traceback
 import time
-
+import multiprocessing
 
 import collections
 import traceback
@@ -25,6 +25,7 @@ LOCK = Lock()
 
 # region general utils
 
+MAX_NUM_WORKERS_ALLOWED = 0
 
 def barified(func: Callable,
              data: collections,
@@ -57,15 +58,10 @@ def barified(func: Callable,
         else:
             total = len(data)
 
-        tmp = kwargs.get('max_workers')
+        tmp = kwargs.get('max_workers', multiprocessing.cpu_count())
         max_workers = Config().NUM_WORKERS
 
-        if tmp:
-            try:
-                tmp = int(tmp)
-                max_workers = tmp
-            except Exception:
-                pass
+        max_workers = min(tmp, max_workers)
             
         hide_bar = kwargs.get('hide_bar', False)
         processes_results = []
@@ -110,26 +106,15 @@ def batchify(func: Callable,
     try:
         num_batches = kwargs.get('num_batches')
         batch_size = kwargs.get('batch_size')
-        tmp = kwargs.get('max_workers')
 
         if num_batches is None:
             num_batches = Config().NUM_BATCHES
         
         if batch_size is None:
             batch_size = int(len(data) / num_batches) + 1
-        
-        max_workers = Config().NUM_WORKERS
-        if tmp:
-            try:
-                tmp = int(tmp)
-                max_workers = tmp
-            except Exception:
-                pass
 
         batch_ixs = range(0, len(data), batch_size)
         batch_ixs = [*map(lambda x: (x, x + batch_size), batch_ixs)]
-
-        kwargs['max_workers'] = max_workers
 
         tmp = barified(func, 
                        batch_ixs,
